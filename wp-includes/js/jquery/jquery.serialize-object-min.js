@@ -1,0 +1,1 @@
+!function($,n){"$:nomunge";$.fn.serializeObject=function(){var n={};return $.each(this.serializeArray(),function(e,r){var a=r.name,i=r.value;n[a]=void 0===n[a]?i:$.isArray(n[a])?n[a].concat(i):[n[a],i]}),n}}(jQuery);
