@@ -24,13 +24,14 @@ get_header(); ?>
 				<header>
 					<h1 class="page-title screen-reader-text"><?php single_post_title(); ?></h1>
 				</header>
-				<div class="section-title-container">
+				<div id="portfolio" class="section-title-container">
 					<div class="section-title-before"></div>
 					<h2 class="seciont-title">Portfolio</h2>
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-10 col-xs-offset-1">
+						<div class="portfolio">
+						<div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2">
 
 					
 						<?php
@@ -55,6 +56,7 @@ get_header(); ?>
 									get_template_part( 'template-parts/content', 'none' );
 
 								endif; ?>
+							</div>
 						</div>
 					</div>
 				</div>

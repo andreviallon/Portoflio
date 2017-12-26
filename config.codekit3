@@ -20778,6 +20778,13 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/comments.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/portfolio\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/contact.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/portfolio\/custom\/script\/script2.js": {
 		"ft": 64,
 		"ma": 0,
@@ -20816,6 +20823,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/footer.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/frontpage.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/frontpage.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/functions.php": {
@@ -20993,6 +21007,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/LICENSE",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/menu.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/page.php": {

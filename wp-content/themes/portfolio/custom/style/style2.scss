@@ -1,11 +1,12 @@
 //Varaibles
 $black: #000000;
 $white: #ffffff;
+$grey: #6C6C6C;
+$lightgrey: #959595;
 $lighterpink: #FFF5F5;
 $lightpink: #FEEAEA;
-$pink : #FEE3E3;
+$pink: #FEE3E3;
 $darkpink: #FDD0D0;
-
 .site-title,
 .entry-header,
 .entry-footer,
@@ -14,18 +15,108 @@ $darkpink: #FDD0D0;
     display: none;
 }
 
-*{
+* {
     font-size: 16px;
     font-family: "Helvetica Neue", sans-serif;
     color: $black;
 }
 
-.site-branding img{
-    width: 10%;
+//Menu
+.main-nav .logo img {
+    width: 7%;
 }
 
-.section-title-container{
+.main-nav {
+    display: -webkit-flex;
     display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.main-nav li {
+    list-style: none;
+    align-self: center;
+}
+
+.main-nav li:first-child {
+    margin-right: auto;
+}
+
+.main-nav li:last-child {
+    margin-right: auto;
+}
+
+.main-nav li:first-child a {
+    padding-left: 0;
+}
+
+.main-nav li:last-child a {
+    padding-right: 0;
+}
+
+.main-nav a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: $black;
+    &:hover {
+        color: $black;
+    }
+    &:visited {
+        color: $black;
+    }
+    &:active {
+        color: $black;
+    }
+    .main-nav a:first {
+        padding-left: 0;
+    }
+}
+
+//Headline
+.headline {
+    height: 100vh;
+}
+
+.headline-title {
+    font-size: 78px;
+    font-weight: 500;
+    margin-top: 20vh;
+    margin-bottom: 30px;
+}
+
+.headline-p{
+    width: 60%;
+    line-height: 1.8;
+    color: $lightgrey;
+}
+
+.discover {
+ margin: auto;
+ position: absolute;
+ left: 0;
+ bottom: 0;
+ right: 0;
+ text-align: center;
+}
+
+.discover-p {
+    margin-bottom: 5px;
+}
+
+.discover-bar {
+    height: 40px;
+    width: 3px;
+    background-color: $lightpink;
+    margin: 0 auto;
+}
+
+.section-title-container {
+    display: flex;
+}
+
+#portfolio{
+    padding-top: 50px;
 }
 
 //Portfolio post
@@ -43,14 +134,25 @@ $darkpink: #FDD0D0;
     margin-right: 5px;
 }
 
-.seciont-title{
+.seciont-title {
     font-size: 47px;
     font-weight: 500;
     margin: 0;
 }
 
-.portfolio-pink-bar{
+.portfolio-title{
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+.portfolio-pink-bar {
     background-color: $pink;
     width: 40px;
-    height: 5px;
+    height: 4px;
+    margin: 8px 0;
+}
+.portfolio-description{
+    font-size: 13.5px;
+    color: $lightgrey;
+    margin: 0;
 }
