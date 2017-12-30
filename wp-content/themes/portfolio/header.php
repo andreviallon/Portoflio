@@ -28,8 +28,6 @@
 <body <?php body_class(); ?>>
 <div class="container">
 	<div class="row">
-	<?php include 'menu.php';?>
-	<?php include 'frontpage.php';?>
 		<div id="page" class="site">
 			<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'portfolio' ); ?></a>
 

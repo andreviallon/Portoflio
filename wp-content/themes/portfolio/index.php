@@ -13,6 +13,8 @@
  */
 
 get_header(); ?>
+	<?php include 'menu.php';?>
+	<?php include 'frontpage.php';?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
@@ -26,7 +28,7 @@ get_header(); ?>
 				</header>
 				<div id="portfolio" class="section-title-container">
 					<div class="section-title-before"></div>
-					<h2 class="seciont-title">Portfolio</h2>
+					<h2 class="section-title">Portfolio</h2>
 				</div>
 				<div class="container">
 					<div class="row">
@@ -39,6 +41,7 @@ get_header(); ?>
 
 									/* Start the Loop */
 									while ( have_posts() ) : the_post();
+									$query = new WP_Query( array( 'category_name' => 'portfolio' ) );
 
 										/*
 										* Include the Post-Format-specific template for the content.
@@ -55,11 +58,15 @@ get_header(); ?>
 
 									get_template_part( 'template-parts/content', 'none' );
 
-								endif; ?>
+								endif; 
+								?>
 							</div>
 						</div>
 					</div>
 				</div>
+				<?php include 'process.php';?>
+				<?php include 'about.php';?>
+				<?php include 'contact.php';?>
 			
 
 		</main><!-- #main -->
