@@ -9,7 +9,12 @@
   font-size: 16px;
   font-family: "Helvetica Neue", sans-serif;
   color: #000000;
-  letter-spacing: 0.2px; }
+  letter-spacing: 0.2px;
+  -o-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s; }
 
 .hide {
   display: none; }
@@ -20,7 +25,7 @@
 .main-nav {
   display: -webkit-flex;
   display: flex;
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.95);
   margin: 0;
   position: fixed;
   z-index: 2;
@@ -56,6 +61,22 @@
   .main-nav a .main-nav a:first {
     padding-left: 0; }
 
+.menu-mobile-content-container {
+  display: block;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff; }
+
+.menu-mobile-content-li {
+  text-align: center;
+  padding: 5vh; }
+
+.menu-mobile-content-li a {
+  padding: 0; }
+
 .headline {
   height: 100vh; }
 
@@ -67,7 +88,7 @@
   background-color: #000000;
   position: relative;
   width: 50px;
-  height: 7px;
+  height: 6px;
   display: inline-block;
   left: -70px;
   top: -25px; }
@@ -304,7 +325,7 @@
 .post-nav {
   display: -webkit-flex;
   display: flex;
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.95);
   margin: 0;
   position: fixed;
   z-index: 2;
@@ -397,7 +418,7 @@
   .section-content a:visited {
     color: #5F5F5F; }
   .section-content a:hover {
-    color: #5F5F5F; }
+    color: #000000; }
 
 .post-main-container .footer {
   margin-top: 100px; }
@@ -405,7 +426,11 @@
 @media (max-width: 992px) {
   .headline-title,
   .header-fix {
-    font-size: 66px; } }
+    font-size: 66px; }
+  .menu-desktop {
+    display: block; }
+  .menu-mobile {
+    display: none; } }
 
 @media (max-width: 768px) {
   .headline-title,
@@ -417,16 +442,29 @@
   .post-black-bar {
     height: 4px;
     width: 18px;
-    left: -26px; } }
+    left: -26px; }
+  .headline-title-before {
+    top: -18px; }
+  .post-nav {
+    padding: 0 30px; }
+  .menu-desktop {
+    display: none; }
+  .menu-mobile {
+    display: block; } }
 
 @media (max-width: 576px) {
   .headline-title,
   .header-fix {
     font-size: 44px; }
   .title-container h1 {
-    font-size: 30px; } }
+    font-size: 30px; }
+  .headline-title-before {
+    top: -15px; } }
 
 @media (max-width: 420px) {
   .headline-title,
   .header-fix {
-    font-size: 37px; } }
+    font-size: 37px; }
+  .headline-title-before {
+    top: -12px;
+    height: 4px; } }

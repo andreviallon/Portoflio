@@ -21,7 +21,7 @@
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
     <h2 class="post-section-title">role</h2>
-    <p class="section-content job">UX / UI<br>DesignFrontend Development</p>
+    <p class="section-content job">UX / UI Design<br>DesignFrontend Development</p>
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
@@ -52,9 +52,9 @@
   </div>
 
   <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img class="col-sm-12 col-md-4"src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-1.png" alt="Epico mobile">
-    <img class="col-sm-12 col-md-4"src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-2.png" alt="Epico mobile">
-    <img class="col-sm-12 col-md-4"src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-3.png" alt="Epico mobile">
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-1.png" alt="Epico mobile">
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-2.png" alt="Epico mobile">
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/epico-mobile-3.png" alt="Epico mobile">
   </div>  
 
   <div class="section-container title-container col-md-8 col-md-offset-2">

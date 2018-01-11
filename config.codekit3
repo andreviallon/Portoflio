@@ -17839,6 +17839,13 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/archive.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/portfolio\/bestseller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/bestseller.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/portfolio\/bower.json": {
 		"ft": 524288,
 		"oA": 1,

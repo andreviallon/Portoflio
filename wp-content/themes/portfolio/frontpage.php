@@ -1,4 +1,4 @@
-<div class="headline-title-container col-md-10 col-md-offset-1 col-xs-12 col-xs-offset-0">
+<div class="headline-title-container col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-1">
         <div class="headline-title-before"></div>
         <div class="headline-title">UX / UI </div> 
         <div class="pink-bar-offset"> 

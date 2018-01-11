@@ -22,6 +22,11 @@ $darkpink: #FDD0D0;
     font-family: "Helvetica Neue", sans-serif;
     color: $black;
     letter-spacing: 0.2px;
+    -o-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
 }
 
 .hide{
@@ -36,7 +41,7 @@ $darkpink: #FDD0D0;
 .main-nav {
     display: -webkit-flex;
     display: flex;
-    background-color: $white;
+        background-color: rgba(255, 255, 255, 0.95);
     margin: 0;
     position: fixed;
     z-index: 2;
@@ -82,6 +87,27 @@ $darkpink: #FDD0D0;
     }
 }
 
+//mobile menu
+
+.menu-mobile-content-container {
+    display: block;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: $white;
+}
+.menu-mobile-content-li{
+    text-align: center;
+    padding: 5vh;
+}
+
+.menu-mobile-content-li a{
+    padding: 0;
+}
+
+
 //Headline
 .headline {
     height: 100vh;
@@ -96,7 +122,7 @@ $darkpink: #FDD0D0;
     background-color: $black;
     position: relative;
     width: 50px;
-    height: 7px;
+    height: 6px;
     display: inline-block;
     left: -70px;
     top: -25px;
@@ -387,7 +413,7 @@ $darkpink: #FDD0D0;
 .post-nav {
     display: -webkit-flex;
     display: flex;
-    background-color: $white;
+    background-color: rgba(255, 255, 255, 0.95);
     margin: 0;
     position: fixed;
     z-index: 2;
@@ -495,7 +521,8 @@ $darkpink: #FDD0D0;
         color: $textgrey;
     }
     &:hover{
-        color: $textgrey;
+        
+        color: $black;
     }
 }
 
@@ -509,6 +536,13 @@ $darkpink: #FDD0D0;
     .headline-title,
     .header-fix{
         font-size: 66px;
+    }
+    .menu-desktop {
+        display: block;
+    }
+
+    .menu-mobile {
+        display: none;
     }
 }
 
@@ -526,6 +560,19 @@ $darkpink: #FDD0D0;
         width: 18px;
         left: -26px;
     }
+    .headline-title-before{
+        top: -18px;
+    }
+    .post-nav{
+        padding: 0 30px;
+    }
+    .menu-desktop{
+        display: none;
+    }
+    .menu-mobile{
+        display: block;
+    }
+
 }
 
 @media (max-width: 576px) {
@@ -536,12 +583,19 @@ $darkpink: #FDD0D0;
     .title-container h1 {
         font-size: 30px;
     }
+    .headline-title-before{
+        top: -15px;
+    }
 }
 
 @media (max-width: 420px) {
     .headline-title,
     .header-fix {
         font-size: 37px;
+    }
+    .headline-title-before{
+        top: -12px;
+        height: 4px;
     }
 }
 
