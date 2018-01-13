@@ -19,7 +19,11 @@
 				<a href="#contact" class="li-last">Contact</a>
 			</li>
 
-			<li class="menu-mobile">menu</a>
+			<li class="menu-mobile"><div class="burger-menu">
+				<div class="burger-top"></div>
+				<div class="burger-mid"></div>
+				<div class="burger-bot"></div>
+			</div>
 			</li>
 			<div class="menu-mobile-content-container">
 				<!-- <div class="ul-mobile-menu-header">
