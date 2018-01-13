@@ -28,6 +28,9 @@ $darkpink: #FDD0D0;
     -webkit-transition: 0.4s;
     transition: 0.4s;
 }
+.body{
+    overflow-x: hidden;
+}
 
 .hide{
     display: none;
@@ -41,14 +44,14 @@ $darkpink: #FDD0D0;
 .main-nav {
     display: -webkit-flex;
     display: flex;
-        background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255, 0.97);
     margin: 0;
     position: fixed;
     z-index: 2;
     right: 0;
     left: 0;
     height: 60px;
-    padding: 0 50px;
+    padding: 0 32px;
 }
 
 .main-nav li {
@@ -88,15 +91,48 @@ $darkpink: #FDD0D0;
 }
 
 //mobile menu
+.menu-mobile {
+    display: none;
+}
 
+.mobile-menu-nav{
+    display: -webkit-flex;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: 0;
+    position: fixed;
+    z-index: 2;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 60px;
+    padding: 0 20px;
+    width: 100vw;
+    justify-content: space-between;
+}
+
+.is-open{
+    display: flex;
+}
 .menu-mobile-content-container {
-    display: block;
+    display: none;
+    align-items: center;
+    justify-content: center;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
     background-color: $white;
+}
+.menu-panel{
+    max-width: 40%;
+    top: 0px;
+    margin-top: -20%;
+}
+.mobile-menu-ul{
+    margin: 0;
+    padding: 0;
 }
 .menu-mobile-content-li{
     text-align: center;
@@ -105,6 +141,16 @@ $darkpink: #FDD0D0;
 
 .menu-mobile-content-li a{
     padding: 0;
+    
+}
+.mobile-nav-li{
+    height: 10vh;
+    padding: 5vh 0 10vh 0;
+}
+.mobile-nav-li a{
+    font-size: 28px;
+    padding: 0;
+    text-align: center;
 }
 
 
@@ -420,7 +466,7 @@ $darkpink: #FDD0D0;
     right: 0;
     left: 0;
     height: 60px;
-    padding: 0 50px;
+    padding: 0 32px;
     justify-content: space-between;
 }
 
@@ -541,8 +587,9 @@ $darkpink: #FDD0D0;
         display: block;
     }
 
-    .menu-mobile {
-        display: none;
+
+    .post-nav{
+        // padding: 0 20px;
     }
 }
 
@@ -563,14 +610,15 @@ $darkpink: #FDD0D0;
     .headline-title-before{
         top: -18px;
     }
-    .post-nav{
-        padding: 0 30px;
-    }
     .menu-desktop{
         display: none;
     }
     .menu-mobile{
         display: block;
+    }
+    .main-nav{
+        padding: 0 20px;
+        width: 100vw;
     }
 
 }
