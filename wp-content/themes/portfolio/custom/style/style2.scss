@@ -302,7 +302,7 @@ $darkpink: #FDD0D0;
     align-self: center;
     margin-right: 5px;
     position: relative;
-    left: -45px;
+    left: 10px;
 }
 
 .section-title {
@@ -310,7 +310,7 @@ $darkpink: #FDD0D0;
     font-weight: 500;
     margin: 0;
     position: relative;
-    left: -45px;
+    left: 15px;
 }
 
 .portfolio-img {
@@ -400,6 +400,7 @@ $darkpink: #FDD0D0;
     color: $grey;
     margin-top: 20px;
     font-size: 14px;
+    line-height: 1.8;
 }
 
 .about-avatar {
@@ -640,6 +641,12 @@ $darkpink: #FDD0D0;
 
 
 //Tablets
+@media (min-width: 768px) {
+    .about,
+    .contact {
+        padding-left: 60px;
+    }
+}
 @media (max-width: 768px) {
         .headline-title,
         .header-fix {
@@ -698,12 +705,12 @@ $darkpink: #FDD0D0;
     }
     .section-title-before {
         width: 20px;
-        left: -10px;
         height: 3px;
+        left: -15px;
     }
     .section-title {
-        left: -10px;
         font-size: 28px;
+        left: -10px;
     }
     .portfolio-title {
         font-size: 22px;

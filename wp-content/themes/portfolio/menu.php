@@ -3,7 +3,7 @@
 		<ul class="main-nav">
 			<li>
 				<a href="index.php" class="logo li-first">
-					<img src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/logo-1.png" alt="AV logo">
+					<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
 				</a>
 			</li>
 			<li class="menu-desktop">
@@ -28,8 +28,8 @@
 			<div class="menu-mobile-content-container">
 				<ul class="mobile-menu-nav">
 					<li>
-						<a href="http://localhost:5757/GitHub/portoflio-2018/" class="logo li-first">
-							<img src="http://localhost:5757/GitHub/portoflio-2018/wp-content/uploads/2017/12/logo-1.png" alt="AV logo">
+						<a href="index.php" class="logo li-first">
+							<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
 						</a>
 					</li>
 					<li>

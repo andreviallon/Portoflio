@@ -18,7 +18,7 @@
                 </div>
             </div>
              <div class="about-avatar col-md-4 col-md-offset-2">
-                 <img src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/profile-picture.png" class="profile-picture" alt="profile picture">
+                 <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/profile-picture.png" class="profile-picture" alt="profile picture">
                  <div class="avatar-pink-box"></div>
              </div>
         </div>

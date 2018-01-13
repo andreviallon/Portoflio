@@ -18534,13 +18534,6 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/archive.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/bestseller.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/bestseller.php",
-		"oF": 0
-		},
 	"\/wp-content\/themes\/portfolio\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -21537,13 +21530,6 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/database\/13-01-18",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/epico.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/epico.php",
-		"oF": 0
-		},
 	"\/wp-content\/themes\/portfolio\/footer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -21754,6 +21740,34 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/phpcs.xml.dist",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-live\/bestseller-live.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/bestseller-live.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-live\/epico-live.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/epico-live.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-local\/bestseller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-local\/bestseller.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-local\/epico.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-local\/epico.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/process.php": {
