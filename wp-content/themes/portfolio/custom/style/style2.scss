@@ -622,6 +622,20 @@ $darkpink: #FDD0D0;
     .process-description {
         width: 75%;
     }
+    .profile-picture {
+        width: 40%;
+        margin-left: 29%;
+    }
+    .avatar-pink-box {
+        width: 50%;
+        height: 60px;
+        top: -26px;
+        left: 0;
+        bottom: 0;
+        margin-left: 5%;
+        position: relative;
+        margin-left: 24%;
+    }
 }
 
 
@@ -732,18 +746,23 @@ $darkpink: #FDD0D0;
         line-height: 1.8;
     }
     .profile-picture {
-        margin-left: 10%;
+        margin-left: 30%;
     }
+    .profile-picture {
+        width: 40%;
+    }
+    
     .about-avatar {
         margin-top: 40px;
     }
     .avatar-pink-box {
-        width: 90%;
-        height: 60px;
+        width: 50%;
+        height: 50px;
         top: -26px;
         left: 0;
         bottom: 0;
-        margin-left: 5%;
+        margin-left: 25%;
+        position: relative;
     }
 }
 
@@ -796,6 +815,15 @@ $darkpink: #FDD0D0;
     .process-description {
         width: 90%;
     }
+    //About
+    .profile-picture {
+        margin-left: 25%;
+        width: 50%;
+    }
+    .avatar-pink-box{
+        width: 66%;
+        margin-left: 17%;
+    }
 }
 
 //phone
@@ -823,4 +851,19 @@ $darkpink: #FDD0D0;
     .contact-black a {
         font-size: 16px;
     }
+        .profile-picture {
+            width: 40%;
+            margin-left: 29%;
+        }
+
+        .avatar-pink-box {
+            width: 50%;
+            height: 60px;
+            top: -26px;
+            left: 0;
+            bottom: 0;
+            margin-left: 5%;
+            position: relative;
+            margin-left: 24%;
+        }
 }

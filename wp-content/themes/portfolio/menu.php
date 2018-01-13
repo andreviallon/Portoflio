@@ -26,9 +26,6 @@
 			</div>
 			</li>
 			<div class="menu-mobile-content-container">
-				<!-- <div class="ul-mobile-menu-header">
-					 <li><a href="index.php" class="logo li-first"><img src="http://localhost:8888/GitHub/portoflio-2018/wp-content/uploads/2017/12/logo-1.png" alt="AV logo"></a></li>
-				</div> -->
 				<ul class="mobile-menu-nav">
 					<li>
 						<a href="http://localhost:5757/GitHub/portoflio-2018/" class="logo li-first">
