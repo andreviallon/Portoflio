@@ -6910,13 +6910,6 @@
 		"oAP": "\/wp-content\/index.php",
 		"oF": 0
 		},
-	"\/wp-content\/plugins\/action-hook\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/plugins\/action-hook\/index.php",
-		"oF": 0
-		},
 	"\/wp-content\/plugins\/akismet\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -7098,13 +7091,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/akismet\/wrapper.php",
-		"oF": 0
-		},
-	"\/wp-content\/plugins\/filter-hook\/filter-hook.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/plugins\/filter-hook\/filter-hook.php",
 		"oF": 0
 		},
 	"\/wp-content\/plugins\/index.php": {

@@ -34,13 +34,14 @@ $darkpink: #FDD0D0;
 }
 
 //Menu
-.nav-container{
+.nav-container {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 3;
 }
+
 .main-nav .logo img {
     width: 50px;
 }
@@ -647,7 +648,6 @@ $darkpink: #FDD0D0;
     }
 }
 
-
 //Tablets
 @media (min-width: 768px) {
     .about,
@@ -655,45 +655,44 @@ $darkpink: #FDD0D0;
         padding-left: 60px;
     }
 }
+
 @media (max-width: 768px) {
     #portfolio,
     #process,
     #about,
-    #contact{
+    #contact {
         padding-top: 50px;
     }
     .post-main-container {
         margin-top: 8vh;
     }
-        .headline-title,
-        .header-fix {
-            font-size: 50px;
-        }
-        .title-container h1 {
-            left: -28px;
-            font-size: 46px;
-        }
-
-        .post-nav{
-            padding: 0 20px;
-        }
-
-        .post-black-bar {
-            height: 3px;
-            width: 18px;
-            left: -26px;
-        }
-        .menu-desktop {
-            display: none;
-        }
-        .menu-mobile,
-        .burger-menu {
-            display: block;
-        }
-        .main-nav {
-            padding: 0 20px;
-            width: 100vw;
-        }
+    .headline-title,
+    .header-fix {
+        font-size: 50px;
+    }
+    .title-container h1 {
+        left: -28px;
+        font-size: 46px;
+    }
+    .post-nav {
+        padding: 0 20px;
+    }
+    .post-black-bar {
+        height: 3px;
+        width: 18px;
+        left: -26px;
+    }
+    .menu-desktop {
+        display: none;
+    }
+    .menu-mobile,
+    .burger-menu {
+        display: block;
+    }
+    .main-nav {
+        padding: 0 20px;
+        width: 100vw;
+    }
     .headline-title-before {
         top: -18px;
         height: 4px;
@@ -715,9 +714,7 @@ $darkpink: #FDD0D0;
     .headline-p {
         width: 75%;
         padding-top: 2%;
-    } 
-    
-    //portoflio
+    } //portoflio
     #portfolio {
         margin-bottom: 40px;
     }
@@ -738,8 +735,7 @@ $darkpink: #FDD0D0;
     }
     .portfolio-description {
         font-size: 14px;
-    } 
-    //process
+    } //process
     #process {
         padding-top: 60px;
     }
@@ -779,7 +775,6 @@ $darkpink: #FDD0D0;
     .profile-picture {
         width: 40%;
     }
-    
     .about-avatar {
         margin-top: 40px;
     }
@@ -842,13 +837,12 @@ $darkpink: #FDD0D0;
     } //process
     .process-description {
         width: 90%;
-    }
-    //About
+    } //About
     .profile-picture {
         margin-left: 12.5%;
         width: 75%;
     }
-    .avatar-pink-box{
+    .avatar-pink-box {
         width: 100%;
         margin-left: 0;
     }
@@ -856,12 +850,11 @@ $darkpink: #FDD0D0;
 
 //phone
 @media (max-width: 420px) {
-        //headline
-        .headline-title,
-        .header-fix {
-            font-size: 37px;
-        }
-    //process
+    //headline
+    .headline-title,
+    .header-fix {
+        font-size: 37px;
+    } //process
     .process-description {
         width: 100%;
     }
@@ -870,28 +863,26 @@ $darkpink: #FDD0D0;
 //Fix breaking containers
 @media (max-width: 366px) {
     //headline
-        .headline-title,
+    .headline-title,
     .header-fix {
         font-size: 33px;
-    }
-    //contact
+    } //contact
     .contact-p,
     .contact-black a {
         font-size: 16px;
     }
-        .profile-picture {
-            width: 40%;
-            margin-left: 29%;
-        }
-
-        .avatar-pink-box {
-            width: 50%;
-            height: 60px;
-            top: -26px;
-            left: 0;
-            bottom: 0;
-            margin-left: 5%;
-            position: relative;
-            margin-left: 24%;
-        }
+    .profile-picture {
+        width: 40%;
+        margin-left: 29%;
+    }
+    .avatar-pink-box {
+        width: 50%;
+        height: 60px;
+        top: -26px;
+        left: 0;
+        bottom: 0;
+        margin-left: 5%;
+        position: relative;
+        margin-left: 24%;
+    }
 }

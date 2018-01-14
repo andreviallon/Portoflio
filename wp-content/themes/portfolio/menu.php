@@ -1,8 +1,8 @@
 <div class="headline">
 	<nav class="nav-container">
-				<div class="container">
-				<div class="row">
-		<ul class="main-nav col-xs-12">
+		<div class="container">
+			<div class="row">
+				<ul class="main-nav col-xs-12">
 
 					<li>
 						<a href="index.php" class="logo li-first">
@@ -37,12 +37,12 @@
 								</a>
 							</li>
 							<li>
-								<a href="#">
+								
 									<div class="closing-cross-container">
 										<div class="cross-right"></div>
 										<div class="cross-left"></div>
 									</div>
-								</a>
+								
 							</li>
 						</ul>
 						<div class="menu-panel">
@@ -67,7 +67,7 @@
 
 				</ul>
 
-		</div>
+			</div>
 		</div>
 
 	</nav>
