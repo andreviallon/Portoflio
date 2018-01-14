@@ -656,6 +656,15 @@ $darkpink: #FDD0D0;
     }
 }
 @media (max-width: 768px) {
+    #portfolio,
+    #process,
+    #about,
+    #contact{
+        padding-top: 50px;
+    }
+    .post-main-container {
+        margin-top: 8vh;
+    }
         .headline-title,
         .header-fix {
             font-size: 50px;
@@ -663,6 +672,10 @@ $darkpink: #FDD0D0;
         .title-container h1 {
             left: -28px;
             font-size: 46px;
+        }
+
+        .post-nav{
+            padding: 0 20px;
         }
 
         .post-black-bar {
@@ -832,12 +845,12 @@ $darkpink: #FDD0D0;
     }
     //About
     .profile-picture {
-        margin-left: 25%;
-        width: 50%;
+        margin-left: 12.5%;
+        width: 75%;
     }
     .avatar-pink-box{
-        width: 66%;
-        margin-left: 17%;
+        width: 100%;
+        margin-left: 0;
     }
 }
 
