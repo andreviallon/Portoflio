@@ -85,7 +85,7 @@
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
-    <h2 class="post-section-title">next step</h2>
+    <h2 class="post-section-title">mockups</h2>
     <p class="section-content">Next, we created wireframes based on the user journey we made and then mockups based on these wireframes. Once this was
       done, we created an interactive prototype for the bestseller representative to try our concept for the app.</p>
   </div>
