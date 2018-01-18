@@ -22,8 +22,6 @@
 .nav-container {
   position: fixed;
   top: 0;
-  left: 0;
-  right: 0;
   z-index: 3; }
 
 .main-nav .logo img {
@@ -54,6 +52,9 @@
 .main-nav li:last-child a {
   padding-right: 0; }
 
+#li-last {
+  padding-right: 0; }
+
 .main-nav a {
   display: block;
   padding: 15px;
@@ -79,8 +80,6 @@
   margin: 0;
   position: fixed;
   z-index: 2;
-  right: 0;
-  left: 0;
   top: 0;
   height: 60px;
   padding: 0 20px;
@@ -395,15 +394,17 @@
   display: -webkit-flex;
   display: flex;
   background-color: rgba(255, 255, 255, 0.95);
+  width: 100vw;
   margin: 0;
   position: relative;
   z-index: 2;
   top: 0;
-  right: 0;
-  left: 0;
   height: 60px;
   padding: 0 32px;
   justify-content: space-between; }
+
+.post-nav li:first-child {
+  margin-right: auto; }
 
 .post-nav li {
   list-style: none;
@@ -429,7 +430,11 @@
   top: 7px;
   position: relative; }
 
-.post-nav a img {
+.entry-content .nav-container {
+  left: 0;
+  right: 0; }
+
+.main-nav a img, .post-nav a img {
   -webkit-box-shadow: 0px 5px 15px 0px transparent;
   -moz-box-shadow: 0px 5px 15px 0px transparent;
   box-shadow: 0px 5px 15px 0px transparent; }
@@ -519,6 +524,8 @@
     margin-left: 24%; } }
 
 @media (min-width: 768px) {
+  .burger-menu {
+    display: none; }
   .about,
   .contact {
     padding-left: 60px; } }

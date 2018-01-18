@@ -19,7 +19,7 @@
 						<a href="#about">About</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#contact" class="li-last">Contact</a>
+						<a href="#contact" id="li-last">Contact</a>
 					</li>
 
 					<li class="menu-mobile">
