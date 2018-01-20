@@ -12,7 +12,7 @@
 <nav class="nav-container">
   <div class="container">
     <div class="row">
-      <ul class="post-nav col-xs-12">
+      <ul class="main-nav col-xs-12">
         <li>
           <a href="https://www.portfolioandreviallon.com/" class="logo li-first">
             <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
@@ -47,10 +47,7 @@
     <p class="section-content">
       The aim of this project was to create a portal for Bestseller's employees, for them to have a better way of handling internal
       services such as orderings, bookings, requests, reporting incidents, and finding specific documents. To help the users
-      fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.
-      <br>
-      <br>See the Axure prototype at
-      <a href="http://eixhe1.axshare.com/#g=1&p=home">http://eixhe1.axshare.com/#g=1&p=home</a>.</p>
+      fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.</p>
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
@@ -110,7 +107,7 @@
 
   <div class="section-container title-container col-xs-12">
     <div class="footer">
-      © 2017 Andre Viallon. All rights reserved.
+      &copy; 2018 Andre Viallon. All rights reserved.
     </div>
   </div>
 

@@ -26,5 +26,5 @@
 </div>
 
 <div class="footer">
-    © 2017 Andre Viallon. All rights reserved.
+    &copy; <?php echo date("Y"); ?> Andre Viallon. All rights reserved.
 </div>

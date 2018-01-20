@@ -277,7 +277,9 @@
   color: #959595;
   margin: 0;
   font-family: "Futura", "Helvetica Neue";
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  font-weight: 300;
+  letter-spacing: 1.8px; }
 
 .process-main-container {
   margin-top: 100px;
@@ -434,7 +436,8 @@
   left: 0;
   right: 0; }
 
-.main-nav a img, .post-nav a img {
+.main-nav a img,
+.post-nav a img {
   -webkit-box-shadow: 0px 5px 15px 0px transparent;
   -moz-box-shadow: 0px 5px 15px 0px transparent;
   box-shadow: 0px 5px 15px 0px transparent; }
