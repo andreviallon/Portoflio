@@ -27,6 +27,7 @@ $darkpink: #FDD0D0;
     -moz-transition: 0.4s;
     -webkit-transition: 0.4s;
     transition: 0.4s;
+    -webkit-font-smoothing: antialiased;
 }
 
 .hide {
@@ -349,7 +350,7 @@ $darkpink: #FDD0D0;
     margin: 0;
     font-family: "Futura", "Helvetica Neue";
     margin-bottom: 30px;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 1.8px;
 }
 
@@ -568,6 +569,8 @@ $darkpink: #FDD0D0;
     font-size: 16px;
     color: $titlegrey;
     text-transform: uppercase;
+    letter-spacing: 1.8px;
+    // font-weight: 300;
 }
 
 .post-black-bar {
