@@ -8,7 +8,6 @@
   <p class="portfolio-description">2017 / APP</p>
 </div>
 <!--more-->
-
 <nav class="nav-container">
   <div class="container">
     <div class="row">

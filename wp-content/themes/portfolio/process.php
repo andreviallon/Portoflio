@@ -2,8 +2,7 @@
     <div class="section-title-before"></div>
     <h2 class="section-title">Process</h2>
 </div>
-<div class="container">
-    <div class="row">
+
         <div class="process">
 
             <div class="process-main-container col-xs-12">
@@ -47,5 +46,3 @@
             </div>
 
         </div>
-    </div>
-</div>

@@ -65,11 +65,11 @@
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/Dashboard.png" alt="Epico-2">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-2.png" alt="Epico Dashboard">
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/News-Details.png" alt="Epico-3">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-3.png" alt="Epico News article">
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
