@@ -567,8 +567,7 @@ $darkpink: #fdd0d0;
   font-size: 16px;
   color: $titlegrey;
   text-transform: uppercase;
-  letter-spacing: 1.8px;
-  // font-weight: 300;
+  letter-spacing: 1.8px; // font-weight: 300;
 }
 
 .post-black-bar {
@@ -805,14 +804,15 @@ $darkpink: #fdd0d0;
 }
 
 //Fix contact that was nreaking too early
-@media (max-width: 604px) {
+@media (max-width: 630px) {
   .headline-title-container {
     margin-top: 27vh;
+  } //Contact
+  .contact {
+    padding-left: 20px;
   }
-  //Contact
   .contact-container {
     display: inline;
-    margin-bottom: 10px;
   }
   .contact-p {
     font-size: 18px;

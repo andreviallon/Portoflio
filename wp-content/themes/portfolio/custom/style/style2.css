@@ -633,12 +633,13 @@
     margin-left: 25%;
     position: relative; } }
 
-@media (max-width: 604px) {
+@media (max-width: 630px) {
   .headline-title-container {
     margin-top: 27vh; }
+  .contact {
+    padding-left: 20px; }
   .contact-container {
-    display: inline;
-    margin-bottom: 10px; }
+    display: inline; }
   .contact-p {
     font-size: 18px;
     display: block; }
