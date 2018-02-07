@@ -16,7 +16,7 @@
                 <div class="contact-p">Connect with me and look at my work</div> 
                 <div class="black-bar"></div> 
                 <div class="contact-black">
-                    <a href="https://www.linkedin.com/in/andr%C3%A9-viallon-91b008103/" target="_blank">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/andre-viallon/" target="_blank">LinkedIn</a>
                     <a href="https://www.behance.net/AndreViallon" target="_blank">Behance</a>
                     <a href="https://github.com/andreviallon" target="_blank">Github</a>   
                 </div>

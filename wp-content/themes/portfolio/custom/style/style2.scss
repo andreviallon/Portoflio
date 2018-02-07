@@ -192,7 +192,7 @@ $darkpink: #fdd0d0;
 }
 
 .headline-title-container {
-  margin-top: 30vh;
+  margin-top: 25vh;
   margin-bottom: 30px;
 }
 
@@ -209,9 +209,9 @@ $darkpink: #fdd0d0;
 .headline-title {
   font-size: 78px;
   font-weight: 500;
-  display: inline;
-  left: -60px;
+  display: inline; // left: -60px;
   position: relative;
+  line-height: 1.2;
 }
 
 .header-fix {
@@ -229,7 +229,7 @@ $darkpink: #fdd0d0;
   position: relative;
   display: inline;
   top: -24px;
-  left: -40px;
+  left: 33px;
 }
 
 .headline-p {
@@ -237,6 +237,7 @@ $darkpink: #fdd0d0;
   line-height: 1.8;
   color: $lightgrey;
   letter-spacing: 0.2px;
+  margin-top: 15px;
 }
 
 .discover {
@@ -639,6 +640,9 @@ $darkpink: #fdd0d0;
   }
   .burger-menu {
     display: none;
+  }
+  .headline-p {
+    width: 80%;
   } //process
   .process-description {
     width: 75%;
@@ -715,18 +719,17 @@ $darkpink: #fdd0d0;
     height: 4px;
     left: -40px;
     width: 28px;
-  }
-  .headline-title {
-    left: -37px;
-  }
+  } // .headline-title {
+  // left: -37px;
+  // }
   .pink-bar-offset {
     top: -17px;
-    left: -30px;
+    left: 10px;
     border-bottom: 26px solid $lightpink;
   }
   .header-fix {
     top: 17px;
-    left: -12px;
+    left: -9px;
   }
   .headline-p {
     width: 75%;
@@ -806,7 +809,7 @@ $darkpink: #fdd0d0;
 //Fix contact that was nreaking too early
 @media (max-width: 630px) {
   .headline-title-container {
-    margin-top: 27vh;
+    margin-top: 22vh;
   } //Contact
   .contact {
     padding-left: 20px;
@@ -849,10 +852,9 @@ $darkpink: #fdd0d0;
   }
   .title-container h1 {
     font-size: 30px;
-  }
-  .headline-title-before {
-    top: -15px;
-  } //process
+  } // .headline-title-before {
+  //   top: -15px;
+  // } //process
   .process-description {
     width: 90%;
   } //About
