@@ -64,7 +64,6 @@ get_header(); ?>
 						</div>
 					</div>
 				</div>
-				<?php include 'process.php';?>
 				<?php include 'about.php';?>
 				<?php include 'contact.php';?>
 			

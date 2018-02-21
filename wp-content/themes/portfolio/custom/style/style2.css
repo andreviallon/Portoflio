@@ -146,8 +146,8 @@
   height: 100vh; }
 
 .headline-title-container {
-  margin-top: 25vh;
-  margin-bottom: 30px; }
+  padding-top: 30vh;
+  padding-bottom: 30px; }
 
 .headline-title-before {
   background-color: #000000;
@@ -162,6 +162,7 @@
   font-size: 78px;
   font-weight: 500;
   display: inline;
+  left: -60px;
   position: relative;
   line-height: 1.2; }
 
@@ -179,14 +180,13 @@
   position: relative;
   display: inline;
   top: -24px;
-  left: 33px; }
+  left: -30px; }
 
 .headline-p {
   width: 60%;
   line-height: 1.8;
   color: #959595;
-  letter-spacing: 0.2px;
-  margin-top: 15px; }
+  letter-spacing: 0.2px; }
 
 .discover {
   margin: auto;
@@ -505,9 +505,11 @@
   margin-top: 100px; }
 
 @media (max-width: 992px) {
+  .headline-title-before {
+    top: -18px; }
   .headline-title,
   .header-fix {
-    font-size: 66px; }
+    font-size: 58px; }
   .menu-desktop {
     display: block; }
   .burger-menu {
@@ -567,16 +569,18 @@
     padding: 0 20px;
     width: 100vw; }
   .headline-title-before {
-    top: -18px;
-    height: 4px;
-    left: -40px;
-    width: 28px; }
+    top: -20px;
+    height: 3px;
+    left: -38px;
+    width: 24px; }
+  .headline-title {
+    left: -34px; }
   .pink-bar-offset {
-    top: -17px;
-    left: 10px;
-    border-bottom: 26px solid #feeaea; }
+    top: -14px;
+    left: -20px;
+    border-bottom: 22px solid #feeaea; }
   .header-fix {
-    top: 17px;
+    top: 14px;
     left: -9px; }
   .headline-p {
     width: 75%;
@@ -636,7 +640,8 @@
 
 @media (max-width: 630px) {
   .headline-title-container {
-    margin-top: 22vh; }
+    padding-top: 25vh;
+    width: 100%; }
   .contact {
     padding-left: 20px; }
   .contact-container {
@@ -665,9 +670,11 @@
 @media (max-width: 576px) {
   .headline-title,
   .header-fix {
-    font-size: 44px; }
+    font-size: 36px; }
   .title-container h1 {
     font-size: 30px; }
+  .headline-title-before {
+    top: -8px; }
   .process-description {
     width: 90%; }
   .profile-picture {
@@ -680,14 +687,18 @@
 @media (max-width: 420px) {
   .headline-title,
   .header-fix {
-    font-size: 37px; }
+    font-size: 34px; }
   .process-description {
     width: 100%; } }
+
+@media (max-width: 378px) {
+  .headline-title, .header-fix {
+    font-size: 29px; } }
 
 @media (max-width: 366px) {
   .headline-title,
   .header-fix {
-    font-size: 33px; }
+    font-size: 27px; }
   .contact-p,
   .contact-black a {
     font-size: 16px; }

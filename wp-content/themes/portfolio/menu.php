@@ -10,10 +10,10 @@
 						</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#portfolio">Portfolio</a>
+						<a href="#home">Home</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#process">Process</a>
+						<a href="#portfolio">Portfolio</a>
 					</li>
 					<li class="menu-desktop">
 						<a href="#about">About</a>
@@ -49,10 +49,10 @@
 							<nav class="mobile-nav">
 								<ul class="mobile-menu-ul">
 									<li class="mobile-nav-li">
-										<a href="#portfolio">portfolio</a>
+										<a href="#home">home</a>
 									</li>
 									<li class="mobile-nav-li">
-										<a href="#process">process</a>
+										<a href="#portfolio">portfolio</a>
 									</li>
 									<li class="mobile-nav-li">
 										<a href="#about">about</a>

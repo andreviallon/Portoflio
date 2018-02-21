@@ -1,13 +1,13 @@
-<div class="headline-title-container col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-1">
-    <!-- <div class="headline-title-before"></div> -->
-    <div class="headline-title">UX / UI Designer</div> 
-    <!-- <div class="pink-bar-offset"> -->
-    <!-- <div class="header-fix">Designer</div> -->
-    <!-- </div> -->
-    <!-- <div class="headline-title pink-bar-offset">Designer</div>  -->
+<div id="home"class="headline-title-container col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-1">
+    <div class="headline-title-before"></div>
+    <div class="headline-title">Frontend</div> 
+    <div class="pink-bar-offset">
+    <div class="header-fix">Developer</div>
+    </div>
+    <!-- <div class="headline-title pink-bar-offset">Dev.</div>  -->
     <br>
-    <div class="headline-title">&amp; Frontend</div>
-    <p class="headline-p">Creating meaningful solutions to enhance the user’s experience through rich and accessible design and compelling storytelling.</p>
+    <!-- <div class="headline-title">&amp; Frontend</div> -->
+    <p class="headline-p">Hybrid Web Developer & UX/UI design looking to for an Internship to create modern, innovative and user friendly solutions.</p>
 </div>
 
 <div class="discover">
