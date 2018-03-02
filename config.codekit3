@@ -7,7 +7,7 @@
 		"uuidString": "0A5B0727-EC29-4C46-B513-A0002AA3DA12"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "26330",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -449,7 +449,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/_admin.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -462,7 +462,7 @@
 		"uL": 1
 		},
 	"\/wp-admin\/css\/colors\/_mixins.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -475,7 +475,7 @@
 		"uL": 1
 		},
 	"\/wp-admin\/css\/colors\/_variables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -558,7 +558,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/blue\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -641,7 +641,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/coffee\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -724,7 +724,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ectoplasm\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -807,7 +807,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/light\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -890,7 +890,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/midnight\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -973,7 +973,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/ocean\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1056,7 +1056,7 @@
 		"oS": 3
 		},
 	"\/wp-admin\/css\/colors\/sunrise\/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17890,7 +17890,7 @@
 		"oF": 0
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/_utilities\/_accessibility.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17903,7 +17903,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/_utilities\/_grid.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17916,7 +17916,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/_utilities\/mixins\/_breakpoint.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17929,7 +17929,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/_animations.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17942,7 +17942,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/_buttons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17955,7 +17955,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/colors\/_colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17968,7 +17968,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/icons\/_automatticons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17981,7 +17981,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/typography\/_functions.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -17994,7 +17994,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/atoms\/typography\/_variables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18007,7 +18007,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/dashboard-widget.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18020,7 +18020,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-admin-jitm.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18033,7 +18033,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-admin.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18046,7 +18046,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-banners.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18059,7 +18059,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-icons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18072,7 +18072,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-idc-admin-bar.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18085,7 +18085,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/jetpack-idc.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18098,7 +18098,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/molecules\/_nav-horizontal.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18111,7 +18111,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/organisms\/_banners.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18124,7 +18124,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/pages\/_manage.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18137,7 +18137,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/pages\/_protect.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18150,7 +18150,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/templates\/_connection-landing.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18163,7 +18163,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/templates\/_main.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18176,7 +18176,7 @@
 		"uL": 1
 		},
 	"\/wp-content\/plugins\/jetpack\/scss\/templates\/_settings.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18565,7 +18565,7 @@
 		"oS": 3
 		},
 	"\/wp-content\/themes\/portfolio\/custom\/style\/style2.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -18796,6 +18796,13 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/phpcs.xml.dist",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/portfolio\/portfolio.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/portfolio.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/portfolio\/post-live\/bestseller-live.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -18829,6 +18836,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/post-local\/epico.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-ux\/bestseller_ux.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/bestseller_ux.html",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-ux\/epico_ux.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/epico_ux.html",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-ux\/mewsfeed_ux.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/mewsfeed_ux.html",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/process.php": {
@@ -32040,7 +32068,7 @@
 	"creationDate": 535809611,
 	"displayValue": "portoflio-2018",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-lotr",
+	"iconImageName": "brackets_teal",
 	"lastBuiltDate": 535812106
 	},
 "projectSettings": {
@@ -32293,7 +32321,7 @@
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
 	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
+	"bowerSaveDependencies": 0,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
@@ -33957,7 +33985,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},

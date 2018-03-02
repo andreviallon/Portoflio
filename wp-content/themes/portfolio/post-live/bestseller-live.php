@@ -1,6 +1,6 @@
 <div class="hide-if-open">
-  <a href="https://www.portfolioandreviallon.com/bestseller-portal/">
-    <img class="portfolio-img" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/Bestsetter-portfolio.png"
+  <a href="https://www.portfolioandreviallon.com/bestseller/">
+    <img class="portfolio-img" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/Bestsetter-portfolio.png"
       alt="epico showcase" />
   </a>
   <h3 class="portfolio-title">Bestseller Portal</h3>
@@ -14,7 +14,7 @@
       <ul class="main-nav col-xs-12">
         <li>
           <a href="https://www.portfolioandreviallon.com/" class="logo li-first">
-            <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
+            <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
           </a>
         </li>
         <li>
@@ -38,19 +38,16 @@
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
     <h2 class="post-section-title">role</h2>
-    <p class="section-content job">UX Design
+    <p class="section-content job">UX Design & Prototyping
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
     <h2 class="post-section-title">overview</h2>
-    <p class="section-content">
-      The aim of this project was to create a portal for Bestseller's employees, for them to have a better way of handling internal
-      services such as orderings, bookings, requests, reporting incidents, and finding specific documents. To help the users
-      fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.</p>
+    <p class="section-content"> The aim of this project was to create a portal for Bestseller's employees, for them to have a better way of handling internal services such as orderings, bookings, requests, reporting incidents, and finding specific documents. To help the users fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.</p>
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-logo-2-1024x513.png" alt="Bestseller-logo">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-logo-2-1024x513.png" alt="Bestseller-logo">
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
@@ -61,7 +58,7 @@
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-6 col-md-offset-3">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-persona.png" alt="Bestseller-persona">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-persona.png" alt="Bestseller-persona">
   </div>
 
 
@@ -74,9 +71,9 @@
   </div>
 
   <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img class="col-xs-12 col-xs-offset-0 col-md-6 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/ideation1.jpg"
+    <img class="col-xs-12 col-xs-offset-0 col-md-6 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/ideation1.jpg"
       alt="Bestseller User Journey">
-    <img class="col-xs-12 col-xs-offset-0 col-md-6 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/ideation2.jpg"
+    <img class="col-xs-12 col-xs-offset-0 col-md-6 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/ideation2.jpg"
       alt="Bestseller User Journey">
   </div>
 
@@ -87,20 +84,20 @@
   </div>
 
   <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-home.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-home.png"
       alt="Bestseller Home">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-service.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-service.png"
       alt="Bestseller service">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-filter.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-filter.png"
       alt="Bestseller filter">
   </div>
 
   <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-booking.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-booking.png"
       alt="Bestseller booking">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-info-1.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-info-1.png"
       alt="Bestseller info">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/bestseller-verfication.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/bestseller-verfication.png"
       alt="Bestseller verification">
   </div>
 

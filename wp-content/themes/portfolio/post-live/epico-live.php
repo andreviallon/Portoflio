@@ -1,6 +1,6 @@
 <div class="hide-if-open">
-  <a href="https://www.portfolioandreviallon.com/epico-job-portal/">
-    <img class="portfolio-img" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/Epico-portfolio.png" alt="epico showcase"
+  <a href="https://www.portfolioandreviallon.com/epico/">
+    <img class="portfolio-img" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/Epico-portfolio.png" alt="epico showcase"
     />
   </a>
   <h3 class="portfolio-title">Epico Job Portal</h3>
@@ -14,7 +14,7 @@
       <ul class="main-nav col-xs-12">
         <li>
           <a href="https://www.portfolioandreviallon.com/" class="logo li-first">
-            <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
+            <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
           </a>
         </li>
         <li>
@@ -53,7 +53,7 @@
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-1-1024x513.png" alt="Epico-1">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-1-1024x513.png" alt="Epico-1">
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
@@ -65,11 +65,11 @@
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-2.png" alt="Epico Dashboard">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-2.png" alt="Epico Dashboard">
   </div>
 
   <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-3.png" alt="Epico News article">
+    <img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-3.png" alt="Epico News article">
   </div>
 
   <div class="section-container title-container col-md-8 col-md-offset-2">
@@ -81,11 +81,11 @@
   </div>
 
   <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-mobile-1.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-mobile-1.png"
       alt="Epico mobile">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-mobile-2.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-mobile-2.png"
       alt="Epico mobile">
-    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/epico-mobile-3.png"
+    <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/epico-mobile-3.png"
       alt="Epico mobile">
   </div>
 

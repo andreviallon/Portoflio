@@ -8,14 +8,13 @@
             <div class="about-text col-md-6">
                 <div class="about-title">Hello there!</div>
                 <div class="about-p">
-                    So, this is where I get to talk a bit about myself. My name is Andre. I am hybrid Frontend Developer and UX Designer with a thrilling passion for creating modern and innovative solutions.
+                   So, this is where I get to talk a bit about myself. My name is Andre. I am hybrid UX/UI Design and Frontend Developer with a thrilling passion for creating modern and beautiful solutions to make my user’s life easier. 
 <br/><br/>
-I've always been interested in challenging myself. That's why I left France, my home country, when I was 17 for new adventures and moved to Denmark where I joined the International Baccalaureate. This is where I started to develop a strong interest in storytelling as well as human behavior by studying English Literature as well as Anthropology that helped me on the path of becoming a UX Designer.
+I’ve always been interested in challenging myself. That’s why I left France, my home country, when I was 17 for new adventures and moved to Denmark where I joined the International Baccalaureate. This is where I started to develop a strong interest in storytelling as well as human behavior by studying English Literature as well as Anthropology. 
 <br/><br/>
-This combined with my curiosity for new technologies led me to become a Frontend Developer. Therefore, I've been studying Web Development for the past 3 years at the International Business Academy in Kolding, Denmark.
+This combined with my curiosity for new technologies led me to become a UX Designer. Therefore, I’ve been studying Web Development and UX Design for the past 3 years at the International Business Academy in Kolding, Denmark. 
 <br/><br/>
-I am currently looking for an internship to grow my skills in Frontend and/or UX/UI Design.
-
+I am currently looking for an internship to grow my skills UX/UI Design and/or Frontend.
                 </div>
             </div>
              <div class="about-avatar col-md-4 col-md-offset-2">

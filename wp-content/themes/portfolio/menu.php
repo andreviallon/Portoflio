@@ -6,7 +6,7 @@
 
 					<li>
 						<a href="index.php" class="logo li-first">
-							<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
+							<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
 						</a>
 					</li>
 					<li class="menu-desktop">
@@ -33,7 +33,7 @@
 						<ul class="mobile-menu-nav">
 							<li>
 								<a href="index.php" class="logo li-first">
-									<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/01/logo.png" alt="AV logo">
+									<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
 								</a>
 							</li>
 							<li>

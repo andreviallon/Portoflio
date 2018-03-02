@@ -237,8 +237,7 @@ $darkpink: #fdd0d0;
   width: 60%;
   line-height: 1.8;
   color: $lightgrey;
-  letter-spacing: 0.2px;
-  // margin-top: 15px;
+  letter-spacing: 0.2px; // margin-top: 15px;
 }
 
 .discover {
@@ -632,11 +631,9 @@ $darkpink: #fdd0d0;
 //Media querries
 //Large tablets
 @media (max-width: 992px) {
-
-  .headline-title-before{
+  .headline-title-before {
     top: -18px;
   }
-
   .headline-title,
   .header-fix {
     font-size: 58px;
@@ -723,11 +720,11 @@ $darkpink: #fdd0d0;
   .headline-title-before {
     top: -20px;
     height: 3px;
-        left: -38px;
+    left: -38px;
     width: 24px;
-  } 
+  }
   .headline-title {
-  left: -34px;
+    left: -34px;
   }
   .pink-bar-offset {
     top: -14px;
@@ -856,13 +853,13 @@ $darkpink: #fdd0d0;
 @media (max-width: 576px) {
   .headline-title,
   .header-fix {
-            font-size: 36px;
+    font-size: 36px;
   }
   .title-container h1 {
     font-size: 30px;
-  } 
+  }
   .headline-title-before {
-    top: -8px;
+    top: -12px;
   } //process
   .process-description {
     width: 90%;
@@ -882,26 +879,28 @@ $darkpink: #fdd0d0;
   //headline
   .headline-title,
   .header-fix {
-        font-size: 34px;
+    font-size: 34px;
   } //process
   .process-description {
     width: 100%;
   }
 }
 
-@media (max-width: 378px){
-  .headline-title, .header-fix {
-    font-size: 29px;
-  }
-}
+// @media (max-width: 378px) {
+//   .headline-title,
+//   .header-fix {
+//     font-size: 29px;
+//   }
+// }
 
 //Fix breaking containers
 @media (max-width: 366px) {
   //headline
-  .headline-title,
-  .header-fix {
-    font-size: 27px;
-  } //contact
+  // .headline-title,
+  // .header-fix {
+  //   font-size: 27px;
+  // }
+   //contact
   .contact-p,
   .contact-black a {
     font-size: 16px;
