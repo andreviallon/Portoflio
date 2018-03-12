@@ -12,7 +12,8 @@
   letter-spacing: 0.2px;
   -webkit-transition: 0.4s;
   transition: 0.4s;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
 
 .hide {
   display: none; }
