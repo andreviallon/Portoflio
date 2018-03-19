@@ -19232,25 +19232,32 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/portfolio.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live\/bestseller-live.php": {
+	"\/wp-content\/themes\/portfolio\/post-live-UX\/bestseller-live.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/bestseller-live.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/bestseller-live.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live\/epico-live.php": {
+	"\/wp-content\/themes\/portfolio\/post-live-UX\/epico-live.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/epico-live.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/epico-live.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live\/mewsfeed.php": {
+	"\/wp-content\/themes\/portfolio\/post-live-UX\/findo-coffee.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/mewsfeed.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/findo-coffee.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/portfolio\/post-live-UX\/mewsfeed.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/mewsfeed.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/post-local\/bestseller.php": {
@@ -22114,6 +22121,116 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-1024x513.png": {
+		"ft": 32768,
+		"iS": 19175,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-1024x513.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-150x150.png": {
+		"ft": 32768,
+		"iS": 10228,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-2-1024x602.png": {
+		"ft": 32768,
+		"iS": 45093,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-2-1024x602.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-2-150x150.png": {
+		"ft": 32768,
+		"iS": 8226,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-2-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-2-300x176.png": {
+		"ft": 32768,
+		"iS": 16200,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-2-300x176.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-2-768x452.png": {
+		"ft": 32768,
+		"iS": 46102,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-2-768x452.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-2.png": {
+		"ft": 32768,
+		"iS": 28887,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-300x150.png": {
+		"ft": 32768,
+		"iS": 17397,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-300x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo-768x385.png": {
+		"ft": 32768,
+		"iS": 33692,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo-768x385.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/wp-content\/uploads\/2018\/03\/Logo.png": {
+		"ft": 32768,
+		"iS": 26000,
+		"oA": 0,
+		"oAP": "\/wp-content\/uploads\/2018\/03\/Logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/wp-cron.php": {
