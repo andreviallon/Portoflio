@@ -45,8 +45,9 @@
         <h2 class="post-section-title">overview</h2>
         <p class="section-content">I created this concept app to solve one of my personal problem. I tempt to move around a lot and not be home often but I still need to get some work done and thus enjoy going to a coffee place near me to work on various projects. The reason why I created a whole concept behind it is to challenge my UX skills by solving real life problems rather than only focusing on the UI.
         <br>
+            <br>See all mockups on InVision at
+            <a href="https://invis.io/PCGEW7F4YX3" target="_blank">https://invis.io/PCGEW7F4YX3</a>.</p>
         <p class="italic">"Create an app for freelancers that travel a lot and like to work in coffee shops to enjoy a nice cup of coffee while working or having meetings with clients."</p>
-        </p>
     </div>
 
     <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
@@ -85,11 +86,11 @@
     </div>
 
     <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Near-Me-Wireframes.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Findo-Coffee-Paper-Near-Me.png"
             alt="Findo Coffe Near Me Paper Wireframe">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Search-Wireframes.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Findo-Coffee-Paper-Detail.png"
             alt="Findo Coffe Search Paper Wireframe">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Details-Wireframes.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Findo-Coffee-Paper-Search.png"
             alt="Findo Coffe Detail Paper Wireframe">
     </div>
 
@@ -121,7 +122,10 @@
     <!--Next Step-->
     <div class="section-container title-container col-md-8 col-md-offset-2">
         <h2 class="post-section-title">next step</h2>
-        <p class="section-content">The next step for this app would be to make some user testing to gather insights by other potential users, to see how they interact with the product and whether or not the app needs additional and less features. Next, I would reiterate on prototype based on the user tests.</p>
+        <p class="section-content">The next step for this app would be to make some user testing to gather insights by other potential users, to see how they interact with the product and whether or not the app needs additional and less features. Next, I would reiterate on prototype based on the user tests.
+        <br>
+            <br>See all mockups on InVision at
+            <a href="https://invis.io/PCGEW7F4YX3" target="_blank">https://invis.io/PCGEW7F4YX3</a>.</p>
     </div>
 
 

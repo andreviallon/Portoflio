@@ -76,10 +76,6 @@ $darkpink: #fdd0d0;
   padding-right: 0;
 }
 
-#li-last {
-  padding-right: 0;
-}
-
 .main-nav a {
   display: block;
   padding: 15px;
@@ -97,6 +93,27 @@ $darkpink: #fdd0d0;
   .main-nav a:first {
     padding-left: 0;
   }
+}
+
+.menu-hover {
+    display: inline-block;
+}
+
+.menu-hover::after {
+    content: '';
+    position: relative;
+    display: block;
+    width: 0;
+    top: -15px;
+    z-index: -1;
+    height: 4px;
+    background: $lightpink;
+    transition: width .3s;
+}
+
+.menu-hover:hover::after {
+    width: 100%;
+    transition: width .3s;
 }
 
 //mobile menu
@@ -348,7 +365,7 @@ $darkpink: #fdd0d0;
   font-size: 13.5px;
   color: $lightgrey;
   margin: 0;
-  font-family: "Futura", "Helvetica Neue";
+  font-family: "Futura", "Nunito";
   margin-bottom: 30px;
   font-weight: 500;
   letter-spacing: 2px;
@@ -572,7 +589,7 @@ $darkpink: #fdd0d0;
 }
 
 .post-section-title {
-  font-family: "Futura", "Helvetica Neue", sans-serif;
+  font-family: "Futura", "Nunito";
   font-size: 16px;
   color: $titlegrey;
   text-transform: uppercase;
@@ -746,7 +763,12 @@ $darkpink: #fdd0d0;
   .headline-p {
     width: 75%;
     padding-top: 2%;
-  } //portoflio
+  }
+  .italic{
+    padding: 0 50px;
+  }
+
+  //portoflio
   #case-studies {
     margin-bottom: 40px;
   }
@@ -859,6 +881,9 @@ $darkpink: #fdd0d0;
 
 // large phone
 @media (max-width: 576px) {
+  .italic{
+    padding: 0 20px;
+  } 
   .headline-title,
   .header-fix {
     font-size: 36px;

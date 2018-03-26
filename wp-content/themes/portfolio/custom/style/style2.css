@@ -53,9 +53,6 @@
 .main-nav li:last-child a {
   padding-right: 0; }
 
-#li-last {
-  padding-right: 0; }
-
 .main-nav a {
   display: block;
   padding: 15px;
@@ -69,6 +66,26 @@
     color: #000000; }
   .main-nav a .main-nav a:first {
     padding-left: 0; }
+
+.menu-hover {
+  display: inline-block; }
+
+.menu-hover::after {
+  content: '';
+  position: relative;
+  display: block;
+  width: 0;
+  top: -15px;
+  z-index: -1;
+  height: 4px;
+  background: #feeaea;
+  -webkit-transition: width .3s;
+  transition: width .3s; }
+
+.menu-hover:hover::after {
+  width: 100%;
+  -webkit-transition: width .3s;
+  transition: width .3s; }
 
 .menu-mobile {
   display: none;
@@ -287,7 +304,7 @@
   font-size: 13.5px;
   color: #959595;
   margin: 0;
-  font-family: "Futura", "Helvetica Neue";
+  font-family: "Futura", "Nunito";
   margin-bottom: 30px;
   font-weight: 500;
   letter-spacing: 2px; }
@@ -479,7 +496,7 @@
   font-size: 33px; }
 
 .post-section-title {
-  font-family: "Futura", "Helvetica Neue", sans-serif;
+  font-family: "Futura", "Nunito";
   font-size: 16px;
   color: #bfbfbf;
   text-transform: uppercase;
@@ -595,7 +612,7 @@
   .burger-menu {
     display: block; }
   .main-nav {
-    padding: 0 20px;
+    margin: 0 20px;
     width: 100vw; }
   .headline-title-before {
     top: -20px;
