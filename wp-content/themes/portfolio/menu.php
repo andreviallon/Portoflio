@@ -9,17 +9,17 @@
 							<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
 						</a>
 					</li>
-					<li class="menu-desktop menu-hover">
-						<a href="#home">Home</a>
+					<li class="menu-desktop ">
+						<a href="#home" class="menu-hover">Home</a>
 					</li>
-					<li class="menu-desktop menu-hover">
-						<a href="#portfolio">Portfolio</a>
+					<li class="menu-desktop ">
+						<a href="#portfolio" class="menu-hover">Portfolio</a>
 					</li>
-					<li class="menu-desktop menu-hover">
-						<a href="#about">About</a>
+					<li class="menu-desktop ">
+						<a href="#about" class="menu-hover">About</a>
 					</li>
-					<li class="menu-desktop menu-hover">
-						<a href="#contact" id="li-last">Contact</a>
+					<li class="menu-desktop ">
+						<a href="#contact" id="li-last" class="menu-hover">Contact</a>
 					</li>
 
 					<li class="menu-mobile">

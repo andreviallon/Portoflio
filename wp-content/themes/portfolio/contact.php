@@ -9,16 +9,16 @@
                 <div class="contact-p">Feel free to write to me </div>
                 <div class="black-bar"></div> 
                 <div class="contact-black">
-                    <a href="mailto:viallon.andre@gmail.com" class="black">viallon.andre@gmail.com</a>
+                    <a href="mailto:viallon.andre@gmail.com" class="black menu-hover">viallon.andre@gmail.com</a>
                 </div>
             </div>
             <div class="contact-container">
                 <div class="contact-p">Connect with me and look at my work</div> 
                 <div class="black-bar"></div> 
                 <div class="contact-black">
-                    <a href="https://www.linkedin.com/in/andre-viallon/" target="_blank">LinkedIn</a>
-                    <a href="https://www.behance.net/AndreViallon" target="_blank">Behance</a>
-                    <a href="https://github.com/andreviallon" target="_blank">Github</a>   
+                    <a href="https://www.linkedin.com/in/andre-viallon/" class="menu-hover" target="_blank" >LinkedIn</a>
+                    <a href="https://www.behance.net/AndreViallon" class="menu-hover" target="_blank">Behance</a>
+                    <a href="https://github.com/andreviallon" class="menu-hover" target="_blank">Github</a>   
                 </div>
             </div>
         </div>

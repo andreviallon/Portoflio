@@ -49,7 +49,7 @@
             web-app should be responsive, user-friendly and facilitate the process of finding a job for freelancers.
             <br>
             <br>See all mockups on InVision at
-            <a href="https://invis.io/WCETXJA6Z" target="_blank">https://invis.io/WCETXJA6Z</a>.</p>
+            <a href="https://invis.io/WCETXJA6Z" target="_blank" class="menu-hover">https://invis.io/WCETXJA6Z</a>.</p>
     </div>
 
     <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
@@ -98,7 +98,7 @@
             created and improve on it.
             <br>
             <br>See all mockups on InVision at
-            <a href="https://invis.io/WCETXJA6Z" target="_blank">https://invis.io/WCETXJA6Z</a>.</p>
+            <a href="https://invis.io/WCETXJA6Z" class="menu-hover" target="_blank">https://invis.io/WCETXJA6Z</a>.</p>
     </div>
 
     <div class="section-container title-container col-xs-12">

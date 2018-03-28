@@ -99,12 +99,15 @@ $darkpink: #fdd0d0;
     display: inline-block;
 }
 
+#li-last{
+  padding-right: 0;
+}
+
 .menu-hover::after {
     content: '';
     position: relative;
     display: block;
     width: 0;
-    top: -15px;
     z-index: -1;
     height: 4px;
     background: $lightpink;
@@ -643,9 +646,9 @@ $darkpink: #fdd0d0;
   &:visited {
     color: $textgrey;
   }
-  &:hover {
-    color: $black;
-  }
+  // &:hover {
+  //   color: $black;
+  // }
 }
 
 .post-main-container .footer {
