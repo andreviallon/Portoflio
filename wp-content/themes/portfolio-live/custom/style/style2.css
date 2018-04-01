@@ -546,6 +546,8 @@
   color: #5f5f5f; }
   .section-content a:visited {
     color: #5f5f5f; }
+  .section-content a:hover {
+    color: #5f5f5f; }
 
 .post-main-container .footer {
   margin-top: 100px; }

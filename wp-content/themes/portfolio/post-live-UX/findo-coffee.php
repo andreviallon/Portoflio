@@ -17,11 +17,12 @@
 <img src="https://www.andreviallon.com/wp-content/uploads/2018/03/logo.png" alt="AV logo" />
 </a></li>
  	<li>
-<div class="closing-cross-container">
-<div class="cross-right"></div>
-<div class="cross-left"></div>
-</div>
-&nbsp;</li>
+ <a href="https://www.andreviallon.com/">
+                        <div class="closing-cross-container">
+                            <div class="cross-right"></div>
+                            <div class="cross-left"></div>
+                        </div>
+                    </a></li>
 </ul>
 </div>
 </div>

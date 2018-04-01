@@ -647,9 +647,9 @@ $darkpink: #fdd0d0;
   &:visited {
     color: $textgrey;
   }
-  // &:hover {
-  //   color: $black;
-  // }
+  &:hover {
+    color: $textgrey;
+  }
 }
 
 .post-main-container .footer {
