@@ -18,11 +18,11 @@
 </a></li>
  	<li>
  <a href="https://www.andreviallon.com/">
-                        <div class="closing-cross-container">
-                            <div class="cross-right"></div>
-                            <div class="cross-left"></div>
-                        </div>
-                    </a></li>
+    <div class="closing-cross-container">
+        <div class="cross-right"></div>
+        <div class="cross-left"></div>
+    </div>
+</a></li>
 </ul>
 </div>
 </div>
@@ -84,7 +84,7 @@ See all mockups on InVision at
 </div>
 <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1"><img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Near-Me.png" alt="Findo Coffe Mockup Near Me" />
 <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Search-Open.png" alt="Findo Coffe Mockup Search Opem" />
-<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Details.png" alt="Findo Coffe Mockup Detail" /></div>
+<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/04/Details.png" alt="Findo Coffe Mockup Detail" /></div>
 &nbsp;
 <div class="section-container title-container col-md-8 col-md-offset-2">
 <h2 class="post-section-title">next step</h2>

@@ -17,21 +17,18 @@ get_header(); ?>
 	<?php include 'frontpage.php';?>
 				<div class="container">
 				<div class="row">
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
-
-					<?php include 'portfolio.php';?>
-					<?php include 'process.php';?>
-					<?php include 'about.php';?>
-					<?php include 'contact.php';?>	
-
-		</main>
-		<!-- #main -->
-	</div>
-	<!-- #primary -->
+					<div id="primary" class="content-area">
+						<main id="main" class="site-main">
+							<?php include 'portfolio.php';?>
+							<?php include 'process.php';?>
+							<?php include 'about.php';?>
+							<?php include 'contact.php';?>	
+						</main>
+						<!-- #main -->
 					</div>
+					<!-- #primary -->
+				</div>
 			</div>
-
 	<?php
 get_sidebar();
 get_footer();
