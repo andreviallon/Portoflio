@@ -1,6 +1,6 @@
 <div class="hide-if-open">
 <a href="https://www.andreviallon.com/findo-coffee/">
-<img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Show-Case-2.png" alt="epico showcase" />
+<img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/04/Show-Case-2.png" alt="epico showcase" />
 </a>
 <h3 class="case-studies-title">Findo Coffee</h3>
 <div class="case-studies-pink-bar"></div>
@@ -41,13 +41,13 @@
 <h2 class="post-section-title">overview</h2>
 <p class="section-content">I created this concept app to solve one of my personal problems. I tempt to move around a lot and not be home often but I still need to get some work done and thus enjoy going to a coffee place near me to work on various projects. The reason why I created a whole concept behind it is to challenge my UX skills by solving real-life problems rather than only focusing on the UI.
 <br><br>
-See all mockups on InVision at
-<a href="https://invis.io/PCGEW7F4YX3" class="menu-hover" target="_blank">https://invis.io/PCGEW7F4YX3</a>.
+
+<a href="https://xd.adobe.com/view/fca2be79-598e-431e-4cb1-3c883c58df34-8a93/?fullscreen" class="menu-hover" target="_blank">Click here to see the full prototype on Adobe Ceative Cloud</a>.
 </p>
 <p class="italic">"Create an app for freelancers that travel a lot and like to work in coffee shops to enjoy a nice cup of coffee while working or having meetings with clients."</p>
 
 </div>
-<div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1"><img src="https://www.andreviallon.com/wp-content/uploads/2018/03/Show-Case.png" alt="Findo Coffe App Show Case" /></div>
+<div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1"><img src="https://www.andreviallon.com/wp-content/uploads/2018/04/Show-Case.png" alt="Findo Coffe App Show Case" /></div>
 &nbsp;
 <div class="section-container title-container col-md-8 col-md-offset-2">
 <h2 class="post-section-title">persona</h2>
@@ -90,8 +90,7 @@ See all mockups on InVision at
 <h2 class="post-section-title">next step</h2>
 <p class="section-content">The next step for this app would be to make some user testing to gather insights by other potential users, to see how they interact with the product and whether or not the app needs additional or fewer features. Next, I would reiterate on the prototype based on the user tests.
 <br><br>
-See all mockups on InVision at
-<a href="https://invis.io/PCGEW7F4YX3" class="menu-hover" target="_blank">https://invis.io/PCGEW7F4YX3</a>.
+<a href="https://xd.adobe.com/view/fca2be79-598e-431e-4cb1-3c883c58df34-8a93/?fullscreen" class="menu-hover" target="_blank">Click here to see the full prototype on Adobe Ceative Cloud</a>.
 </p>
 </div>
 <div class="section-container title-container col-xs-12">

@@ -7,7 +7,7 @@
 		"uuidString": "0A5B0727-EC29-4C46-B513-A0002AA3DA12"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -9492,6 +9492,7 @@
 	"\/wp-content\/plugins\/jetpack\/images\/feature-photon-lrg.jpg": {
 		"ft": 16384,
 		"iS": 197234,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/jetpack\/images\/feature-photon-lrg.jpg",
 		"oF": 0,
@@ -9502,6 +9503,7 @@
 	"\/wp-content\/plugins\/jetpack\/images\/feature-photon-med.jpg": {
 		"ft": 16384,
 		"iS": 119127,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/jetpack\/images\/feature-photon-med.jpg",
 		"oF": 0,
@@ -9512,6 +9514,7 @@
 	"\/wp-content\/plugins\/jetpack\/images\/feature-photon-sm.jpg": {
 		"ft": 16384,
 		"iS": 83168,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/jetpack\/images\/feature-photon-sm.jpg",
 		"oF": 0,
@@ -9532,6 +9535,7 @@
 	"\/wp-content\/plugins\/jetpack\/images\/jetpack-icon.jpg": {
 		"ft": 16384,
 		"iS": 9872,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/plugins\/jetpack\/images\/jetpack-icon.jpg",
 		"oF": 0,
@@ -20013,6 +20017,7 @@
 	"\/wp-content\/themes\/twentyseventeen\/assets\/images\/coffee.jpg": {
 		"ft": 16384,
 		"iS": 117713,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/twentyseventeen\/assets\/images\/coffee.jpg",
 		"oF": 0,
@@ -20023,6 +20028,7 @@
 	"\/wp-content\/themes\/twentyseventeen\/assets\/images\/espresso.jpg": {
 		"ft": 16384,
 		"iS": 93540,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/twentyseventeen\/assets\/images\/espresso.jpg",
 		"oF": 0,
@@ -20033,6 +20039,7 @@
 	"\/wp-content\/themes\/twentyseventeen\/assets\/images\/header.jpg": {
 		"ft": 16384,
 		"iS": 114854,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/twentyseventeen\/assets\/images\/header.jpg",
 		"oF": 0,
@@ -20043,6 +20050,7 @@
 	"\/wp-content\/themes\/twentyseventeen\/assets\/images\/sandwich.jpg": {
 		"ft": 16384,
 		"iS": 171858,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/twentyseventeen\/assets\/images\/sandwich.jpg",
 		"oF": 0,
@@ -22046,6 +22054,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation1-150x150.jpg": {
 		"ft": 16384,
 		"iS": 6464,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation1-150x150.jpg",
 		"oF": 0,
@@ -22056,6 +22065,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation1-225x300.jpg": {
 		"ft": 16384,
 		"iS": 16689,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation1-225x300.jpg",
 		"oF": 0,
@@ -22066,6 +22076,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation1-768x1024.jpg": {
 		"ft": 16384,
 		"iS": 124357,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation1-768x1024.jpg",
 		"oF": 0,
@@ -22076,6 +22087,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation1.jpg": {
 		"ft": 16384,
 		"iS": 1204340,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation1.jpg",
 		"oF": 0,
@@ -22086,6 +22098,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation2-150x150.jpg": {
 		"ft": 16384,
 		"iS": 5266,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation2-150x150.jpg",
 		"oF": 0,
@@ -22096,6 +22109,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation2-225x300.jpg": {
 		"ft": 16384,
 		"iS": 12973,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation2-225x300.jpg",
 		"oF": 0,
@@ -22106,6 +22120,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation2-768x1024.jpg": {
 		"ft": 16384,
 		"iS": 94934,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation2-768x1024.jpg",
 		"oF": 0,
@@ -22116,6 +22131,7 @@
 	"\/wp-content\/uploads\/2018\/01\/ideation2.jpg": {
 		"ft": 16384,
 		"iS": 1310695,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/uploads\/2018\/01\/ideation2.jpg",
 		"oF": 0,
@@ -32615,6 +32631,7 @@
 	"displayValue": "portoflio-2018",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 535812106
 	},
 "projectSettings": {
@@ -34418,6 +34435,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
