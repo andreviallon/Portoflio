@@ -41,8 +41,7 @@
 <h2 class="post-section-title">overview</h2>
 <p class="section-content">I created this concept app to solve one of my personal problems. I tempt to move around a lot and not be home often but I still need to get some work done and thus enjoy going to a coffee place near me to work on various projects. The reason why I created a whole concept behind it is to challenge my UX skills by solving real-life problems rather than only focusing on the UI.
 <br><br>
-
-<a href="https://xd.adobe.com/view/fca2be79-598e-431e-4cb1-3c883c58df34-8a93/?fullscreen" class="menu-hover" target="_blank">Click here to see the full prototype on Adobe Ceative Cloud</a>.
+<a href="https://invis.io/PCGEW7F4YX3" class="menu-hover" target="_blank">Click here to see the full inVision prototype</a>.
 </p>
 <p class="italic">"Create an app for freelancers that travel a lot and like to work in coffee shops to enjoy a nice cup of coffee while working or having meetings with clients."</p>
 
@@ -82,15 +81,15 @@
 <p class="section-content">Finally, I created a high fidelity interactive prototype. I focused on adding colors, choosing the right typography and icons to create a warm and cozy atmosphere for the users.</p>
 
 </div>
-<div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1"><img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Near-Me.png" alt="Findo Coffe Mockup Near Me" />
-<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Search-Open.png" alt="Findo Coffe Mockup Search Opem" />
-<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/04/Details.png" alt="Findo Coffe Mockup Detail" /></div>
+<div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1"><img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/05/Near-Me.png" alt="Findo Coffe Mockup Near Me" />
+<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/05/Search-Open.png" alt="Findo Coffe Mockup Search Opem" />
+<img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/05/Details.png" alt="Findo Coffe Mockup Detail" /></div>
 &nbsp;
 <div class="section-container title-container col-md-8 col-md-offset-2">
 <h2 class="post-section-title">next step</h2>
 <p class="section-content">The next step for this app would be to make some user testing to gather insights by other potential users, to see how they interact with the product and whether or not the app needs additional or fewer features. Next, I would reiterate on the prototype based on the user tests.
 <br><br>
-<a href="https://xd.adobe.com/view/fca2be79-598e-431e-4cb1-3c883c58df34-8a93/?fullscreen" class="menu-hover" target="_blank">Click here to see the full prototype on Adobe Ceative Cloud</a>.
+<a href="https://invis.io/PCGEW7F4YX3" class="menu-hover" target="_blank">Click here to see the full inVision prototype</a>.
 </p>
 </div>
 <div class="section-container title-container col-xs-12">
