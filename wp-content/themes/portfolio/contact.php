@@ -17,6 +17,8 @@
                 <div class="black-bar"></div> 
                 <div class="contact-black">
                     <a href="https://www.linkedin.com/in/andre-viallon/" class="menu-hover" target="_blank" >LinkedIn</a>
+                    <a href="https://dribbble.com/andreviallon" class="menu-hover" target="_blank" >Dribbble</a>
+                    
                     <a href="https://www.behance.net/AndreViallon" class="menu-hover" target="_blank">Behance</a>
                     <a href="https://github.com/andreviallon" class="menu-hover" target="_blank">Github</a>   
                 </div>

@@ -19013,7 +19013,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/custom\/style\/style2.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -19364,8 +19364,8 @@
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/screenshot.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

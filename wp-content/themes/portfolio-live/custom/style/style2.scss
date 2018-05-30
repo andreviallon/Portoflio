@@ -844,13 +844,9 @@ $darkpink: #fdd0d0;
   }
 }
 
-//Fix contact that was nreaking too early
-@media (max-width: 630px) {
-  .headline-title-container {
-    padding-top: 25vh;
-    width: 100%;
-  } //Contact
-  .contact {
+
+@media (max-width: 696px){
+   .contact {
     padding-left: 20px;
   }
   .contact-container {
@@ -875,12 +871,26 @@ $darkpink: #fdd0d0;
     margin-top: 3px;
     margin-bottom: 20px;
   }
-  .contact-black a {
-    font-size: 18px;
-  }
   .footer {
     margin: 0px 0 100px 0;
   }
+}
+
+//Fix contact that was nreaking too early
+@media (max-width: 630px) {
+  .headline-title-container {
+    padding-top: 25vh;
+    width: 100%;
+  } //Contact
+}
+
+
+//Fix contact that was nreaking too early
+@media (max-width: 630px) {
+  .headline-title-container {
+    padding-top: 25vh;
+    width: 100%;
+  } //Contact
 }
 
 // large phone
