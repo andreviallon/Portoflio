@@ -342,11 +342,11 @@ $darkpink: #fdd0d0;
   left: 15px;
 }
 
-.portfolio-img {
+.case-studies-img {
   margin-top: 10px;
 }
 
-.portfolio-title {
+.case-studies-title {
   font-weight: 400;
   font-size: 28px;
   margin: 20px 0 12px 0;
@@ -357,14 +357,14 @@ $darkpink: #fdd0d0;
   }
 }
 
-.portfolio-pink-bar {
+.case-studies-pink-bar {
   background-color: $pink;
   width: 40px;
   height: 4px;
   margin: 8px 0;
 }
 
-.portfolio-description {
+.case-studies-description {
   font-size: 13.5px;
   color: $lightgrey;
   margin: 0;
@@ -881,6 +881,9 @@ $darkpink: #fdd0d0;
 
 //Fix contact that was nreaking too early
 @media (max-width: 630px) {
+  .italic{
+    padding: 0 15px;
+  }
   .headline-title-container {
     padding-top: 25vh;
     width: 100%;
@@ -909,9 +912,6 @@ $darkpink: #fdd0d0;
     top: 10px;
     margin-top: 3px;
     margin-bottom: 20px;
-  }
-  .contact-black a {
-    font-size: 17px;
   }
   .footer {
     margin: 0px 0 100px 0;

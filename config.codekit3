@@ -19236,32 +19236,32 @@
 		"oAP": "\/wp-content\/themes\/portfolio\/portfolio.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live-UX\/bestseller-live.php": {
+	"\/wp-content\/themes\/portfolio\/post-live\/bestseller.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/bestseller-live.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/bestseller.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live-UX\/epico-live.php": {
+	"\/wp-content\/themes\/portfolio\/post-live\/epico.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/epico-live.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/epico.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live-UX\/findo-coffee.php": {
+	"\/wp-content\/themes\/portfolio\/post-live\/findo-coffee.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/findo-coffee.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/findo-coffee.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/portfolio\/post-live-UX\/mewsfeed.php": {
+	"\/wp-content\/themes\/portfolio\/post-live\/mewsfeed.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-live-UX\/mewsfeed.php",
+		"oAP": "\/wp-content\/themes\/portfolio\/post-live\/mewsfeed.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/post-local\/bestseller.php": {
@@ -19276,27 +19276,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/portfolio\/post-local\/epico.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/portfolio\/post-ux\/bestseller_ux.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/bestseller_ux.html",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/portfolio\/post-ux\/epico_ux.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/epico_ux.html",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/portfolio\/post-ux\/mewsfeed_ux.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/portfolio\/post-ux\/mewsfeed_ux.html",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/portfolio\/process.php": {

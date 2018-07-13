@@ -1,6 +1,6 @@
 <div class="hide-if-open">
     <a href="https://www.andreviallon.com/epico/">
-        <img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/03/Epico-portfolio.png" alt="epico showcase"
+        <img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/07/Epico-portfolio.png" alt="epico showcase"
         />
     </a>
     <h3 class="case-studies-title">Epico Job Portal</h3>
@@ -14,7 +14,7 @@
             <ul class="main-nav col-xs-12">
                 <li>
                     <a href="https://www.andreviallon.com/" class="logo li-first">
-                        <img src="https://www.andreviallon.com/wp-content/uploads/2018/03/logo.png" alt="AV logo">
+                        <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
                     </a>
                 </li>
                 <li>
@@ -53,41 +53,38 @@
     </div>
 
     <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-1-1024x513.png" alt="Epico-1">
+        <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-1-1024x513.png" alt="Epico-1">
     </div>
 
     <div class="section-container title-container col-md-8 col-md-offset-2">
         <h2 class="post-section-title">process</h2>
         <p class="section-content">To create this product, I first started by analysis Epico’s website to understand their values and what they which
-            to achieve with this web-app. Next, I listed all the different features that should be present asked by Epico
-            such as the user being able to login via LinkedIn and so on. Then, I created user journeys to understand the
-            flow and the direction the app should take. Finally, I started to do sketches and wireframes resulting in the
+            to achieve with this web-app. Next, I listed all the different features that should be present asked by Epico such as the user being able to login via LinkedIn and so on. Then, I created user journeys to understand the flow and the direction the app should take. Finally, I started to do sketches and wireframes resulting in the
             mockups showcased.</p>
     </div>
 
     <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-2.png" alt="Epico Dashboard">
+        <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-2.png" alt="Epico Dashboard">
     </div>
 
     <div class="section-container col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-3.png" alt="Epico News article">
+        <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-3.png" alt="Epico News article">
     </div>
 
     <div class="section-container title-container col-md-8 col-md-offset-2">
         <h2 class="post-section-title">insight</h2>
         <p class="section-content">To improve the usability on the mobile version, I focused on positioning every element so that they can be easily
-            accessible for the user using the ‘Thumb Zone’. For instance, all elements the user might click on the login
-            page require a small or no stretch for the user’s thumb. Also, the menu button is placed on the top left corner
+            accessible for the user using the ‘Thumb Zone’. For instance, all elements the user might click on the login page require a small or no stretch for the user’s thumb. Also, the menu button is placed on the top left corner
             rather than the right one because it is going to be used more frequently by the user rather than the notification
             button and so on.</p>
     </div>
 
     <div class="section-container section-mobile col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-mobile-1.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-mobile-1.png"
             alt="Epico mobile">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-mobile-2.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-mobile-2.png"
             alt="Epico mobile">
-        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/03/epico-mobile-3.png"
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0" src="https://www.andreviallon.com/wp-content/uploads/2018/07/epico-mobile-3.png"
             alt="Epico mobile">
     </div>
 
