@@ -615,8 +615,8 @@
   .burger-menu {
     display: block; }
   .main-nav {
-    margin: 0 20px;
-    width: 100vw; }
+    width: 100vw;
+    padding: 0 20px; }
   .headline-title-before {
     top: -20px;
     height: 3px;
