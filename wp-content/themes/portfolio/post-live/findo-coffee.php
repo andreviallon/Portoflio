@@ -4,7 +4,7 @@
 </a>
 <h3 class="case-studies-title">Findo Coffee</h3>
 <div class="case-studies-pink-bar"></div>
-<p class="case-studies-description">2018 / APP</p>
+<p class="case-studies-description">IOS APP</p>
 
 </div>
 <!--more-->

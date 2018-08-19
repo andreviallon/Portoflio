@@ -5,6 +5,6 @@
     </a>
     <h3 class="case-studies-title">Mewsfeed</h3>
     <div class="case-studies-pink-bar"></div>
-    <p class="case-studies-description">2017 / WORDPRESS</p>
+    <p class="case-studies-description">WORDPRESS</p>
 
 </div>

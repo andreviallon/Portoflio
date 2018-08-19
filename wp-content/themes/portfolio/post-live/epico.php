@@ -5,7 +5,7 @@
     </a>
     <h3 class="case-studies-title">Epico Job Portal</h3>
     <div class="case-studies-pink-bar"></div>
-    <p class="case-studies-description">2017 / WEP APP</p>
+    <p class="case-studies-description">WEP APP</p>
 </div>
 <!--more-->
 <nav class="nav-container">

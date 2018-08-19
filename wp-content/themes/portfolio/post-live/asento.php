@@ -5,7 +5,7 @@
     </a>
     <h3 class="case-studies-title">Asento Learn</h3>
     <div class="case-studies-pink-bar"></div>
-    <p class="case-studies-description">2018 / WEP APP</p>
+    <p class="case-studies-description">WEP APP</p>
 </div>
 <!--more-->
 <nav class="nav-container">
