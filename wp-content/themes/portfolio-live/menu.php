@@ -6,20 +6,20 @@
 
 					<li>
 						<a href="index.php" class="logo li-first">
-							<img src="https://www.portfolioandreviallon.com/wp-content/uploads/2018/02/logo.png" alt="AV logo">
+							<img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
 						</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#portfolio">Portfolio</a>
+						<a href="#portfolio" class="menu-hover">Case Study</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#process">Process</a>
+						<a href="#process" class="menu-hover">Process</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#about">About</a>
+						<a href="#about" class="menu-hover">About</a>
 					</li>
 					<li class="menu-desktop">
-						<a href="#contact" id="li-last">Contact</a>
+						<a href="#contact" id="li-last" class="menu-hover">Contact</a>
 					</li>
 
 					<li class="menu-mobile">
@@ -49,16 +49,16 @@
 							<nav class="mobile-nav">
 								<ul class="mobile-menu-ul">
 									<li class="mobile-nav-li">
-										<a href="#portfolio">portfolio</a>
+										<a href="#portfolio" class="menu-hover">case study</a>
 									</li>
 									<li class="mobile-nav-li">
-										<a href="#process">process</a>
+										<a href="#process" class="menu-hover">process</a>
 									</li>
 									<li class="mobile-nav-li">
-										<a href="#about">about</a>
+										<a href="#about" class="menu-hover">about</a>
 									</li>
 									<li class="mobile-nav-li">
-										<a href="#contact">contact</a>
+										<a href="#contact" class="menu-hover">contact</a>
 									</li>
 								</ul>
 							</nav>

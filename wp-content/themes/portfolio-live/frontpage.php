@@ -1,8 +1,8 @@
 <div id="home"class="headline-title-container col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-1">
     <div class="headline-title-before"></div>
-    <div class="headline-title">UX / UI</div> 
+    <div class="headline-title">UI / UX</div> 
     <div class="pink-bar-offset">
-    <div class="header-fix">Designer</div>
+    <div class="header-fix">Localhost</div>
     </div>
     <!-- <div class="headline-title pink-bar-offset">Dev.</div>  -->
     <br>

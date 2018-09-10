@@ -1,6 +1,6 @@
 <div id="portfolio" class="section-title-container">
     <div class="section-title-before"></div>
-    <h2 class="section-title">Portfolio</h2>
+    <h2 class="section-title">Case Study</h2>
 </div>
 <div class="portfolio">
     <div class="container">
