@@ -1,1 +1,1 @@
-!function($,n){"$:nomunge";$.fn.serializeObject=function(){var n={};return $.each(this.serializeArray(),function(e,r){var a=r.name,i=r.value;n[a]=void 0===n[a]?i:$.isArray(n[a])?n[a].concat(i):[n[a],i]}),n}}(jQuery);
+!function(r,a){r.fn.serializeObject=function(){var a={};return r.each(this.serializeArray(),function(e,i){var n=i.name,c=i.value;a[n]=void 0===a[n]?c:r.isArray(a[n])?a[n].concat(c):[a[n],c]}),a}}(jQuery);
