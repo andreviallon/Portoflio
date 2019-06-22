@@ -304,7 +304,7 @@ p {
 	font-size: 35px;
 	font-weight: bold;
 	display: inline;
-	top: -5px;
+	top: 12px;
 	left: -17px;
 	position: relative;
 }
@@ -314,7 +314,7 @@ p {
 	font-family: inherit;
 	position: relative;
 	display: inline;
-	top: -29px;
+	top: -47px;
 	left: 106px;
 }
 
@@ -346,17 +346,6 @@ p {
 
 .section-title-container {
 	display: flex;
-}
-
-#portfolio,
-#process,
-#about,
-#contact {
-	padding-top: 100px;
-}
-
-#portfolio {
-	margin-bottom: 75px;
 }
 
 .entry-content {
@@ -407,7 +396,7 @@ p {
 
 // About
 .about {
-	margin-top: 50px;
+	margin-top: 23vh;
 }
 
 .about-text {
@@ -415,18 +404,19 @@ p {
 }
 
 .about-title {
-	font-size: 24px;
+	font-size: 35px;
+	font-weight: bold;
 }
 
 .about-p {
-	color: $grey;
+	color: $textgrey;
 	margin-top: 20px;
 	font-size: 14px;
 	line-height: 1.8;
 }
 
 .about-avatar {
-	margin-top: 50px;
+	margin-top: 9vh;
 }
 
 .profile-picture {

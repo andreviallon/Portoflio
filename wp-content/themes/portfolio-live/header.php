@@ -29,6 +29,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+<?php include 'menu.php'; ?>
 <div class="container">
 	<div class="row main-page">
 		<div id="page" class="site">

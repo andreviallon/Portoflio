@@ -86,8 +86,4 @@
         <a href="https://xd.adobe.com/view/56fa443c-71c8-4bc4-5fa5-a9b857bc7400-20cb/" target="_blank" class="menu-hover">Click here to see the prototype.</a>
 
     </div>
-    <div class="section-container col-xs-12">
-        <div class="footer">
-            © 2019 Andre Viallon. All rights reserved.</div>
-    </div>
 </div>

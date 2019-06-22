@@ -7668,6 +7668,14 @@
 		"oAP": "/wp-content/themes/portfolio-live/comments.php",
 		"oF": 0
 		},
+	"/wp-content/themes/portfolio-live/custom-footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/portfolio-live/custom-footer.php",
+		"oF": 0
+		},
 	"/wp-content/themes/portfolio-live/custom/script/script2-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -7947,80 +7955,44 @@
 		"oAP": "/wp-content/themes/portfolio-live/phpcs.xml.dist",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/portfolio.php": {
+	"/wp-content/themes/portfolio-live/post/asento.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/portfolio.php",
+		"oAP": "/wp-content/themes/portfolio-live/post/asento.php",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/post-live/asento.php": {
+	"/wp-content/themes/portfolio-live/post/bestseller.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/asento.php",
+		"oAP": "/wp-content/themes/portfolio-live/post/bestseller.php",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/post-live/bestseller.php": {
+	"/wp-content/themes/portfolio-live/post/epico.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/bestseller.php",
+		"oAP": "/wp-content/themes/portfolio-live/post/epico.php",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/post-live/epico.php": {
+	"/wp-content/themes/portfolio-live/post/findo-coffee.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/epico.php",
+		"oAP": "/wp-content/themes/portfolio-live/post/findo-coffee.php",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/post-live/findo-coffee.php": {
+	"/wp-content/themes/portfolio-live/post/mewsfeed.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/findo-coffee.php",
-		"oF": 0
-		},
-	"/wp-content/themes/portfolio-live/post-live/mewsfeed.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/mewsfeed.php",
-		"oF": 0
-		},
-	"/wp-content/themes/portfolio-live/post-live/Untitled-1-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/Untitled-1-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/themes/portfolio-live/post-live/Untitled-1.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/Untitled-1-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/themes/portfolio-live/post-live/Untitled-2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/post-live/Untitled-2.html",
+		"oAP": "/wp-content/themes/portfolio-live/post/mewsfeed.php",
 		"oF": 0
 		},
 	"/wp-content/themes/portfolio-live/README.html": {

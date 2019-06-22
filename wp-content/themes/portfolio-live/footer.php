@@ -10,6 +10,7 @@
  */
 
 ?>
+<?php include 'custom-footer.php';?>
 
 	</div><!-- #content -->
 

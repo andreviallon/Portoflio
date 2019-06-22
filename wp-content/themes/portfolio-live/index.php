@@ -12,7 +12,7 @@
  * @package portfolio
  */
 
-include 'menu.php';
+
 get_header();
 include 'frontpage.php';
 get_sidebar();

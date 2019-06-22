@@ -4,7 +4,7 @@
 
 		<div class="logo-container">
 			<li>
-				<a href="index.php" class="logo li-first">
+				<a href="http://localhost:8888/portoflio-2018" class="logo li-first">
 					<img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
 				</a>
 			</li>
@@ -12,10 +12,10 @@
 
 		<div class="menu-container">
 			<li class="menu-desktop">
-				<a href="index.php" class="menu-hover active">Case Studies</a>
+				<a href="http://localhost:8888/portoflio-2018" class="menu-hover active">Case Studies</a>
 			</li>
 			<li class="menu-desktop">
-				<a href="about.php" class="menu-hover">About</a>
+				<a href="about" class="menu-hover">About</a>
 			</li>
 			<li class="menu-desktop">
 				<a href="/resume" class="menu-hover" target="_blank">Resume</a>
