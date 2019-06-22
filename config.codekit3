@@ -2445,6 +2445,46 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/wp-admin/css/site-health-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/css/site-health-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-admin/css/site-health-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/css/site-health-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-admin/css/site-health.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/css/site-health-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-admin/css/site-health.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/css/site-health.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/wp-admin/css/site-icon-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -2803,6 +2843,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-admin/edit-form-advanced.php",
+		"oF": 0
+		},
+	"/wp-admin/edit-form-blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/edit-form-blocks.php",
 		"oF": 0
 		},
 	"/wp-admin/edit-form-comment.php": {
@@ -3773,6 +3821,14 @@
 		"oAP": "/wp-admin/includes/class-wp-community-events.php",
 		"oF": 0
 		},
+	"/wp-admin/includes/class-wp-debug-data.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/includes/class-wp-debug-data.php",
+		"oF": 0
+		},
 	"/wp-admin/includes/class-wp-filesystem-base.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3923,6 +3979,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-admin/includes/class-wp-screen.php",
+		"oF": 0
+		},
+	"/wp-admin/includes/class-wp-site-health-auto-updates.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/includes/class-wp-site-health-auto-updates.php",
+		"oF": 0
+		},
+	"/wp-admin/includes/class-wp-site-health.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/includes/class-wp-site-health.php",
 		"oF": 0
 		},
 	"/wp-admin/includes/class-wp-site-icon.php": {
@@ -5667,6 +5739,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/wp-admin/js/site-health.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-admin/js/site-health-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-admin/js/site-health.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-admin/js/site-health.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/wp-admin/js/svg-painter-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -7115,6 +7209,22 @@
 		"oAP": "/wp-admin/setup-config.php",
 		"oF": 0
 		},
+	"/wp-admin/site-health-info.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/site-health-info.php",
+		"oF": 0
+		},
+	"/wp-admin/site-health.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-admin/site-health.php",
+		"oF": 0
+		},
 	"/wp-admin/term.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -7347,27 +7457,6 @@
 		"oAP": "/wp-content/plugins/akismet/.htaccess",
 		"oF": 0
 		},
-	"/wp-content/plugins/akismet/_inc/akismet-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/akismet/_inc/akismet-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/plugins/akismet/_inc/akismet-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/akismet/_inc/akismet-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/wp-content/plugins/akismet/_inc/akismet.css": {
 		"aP": 1,
 		"bl": 0,
@@ -7385,17 +7474,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-content/plugins/akismet/_inc/akismet-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/plugins/akismet/_inc/form-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/akismet/_inc/form-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -7542,6 +7620,233 @@
 		"oAP": "/wp-content/plugins/akismet/wrapper.php",
 		"oF": 0
 		},
+	"/wp-content/plugins/font-awesome/admin/build/asset-manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/asset-manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css.map",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js.map",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js.map",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js.map",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/index.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/admin/views/main.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/admin/views/main.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/defines.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/defines.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/font-awesome.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/font-awesome.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-activator.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-activator.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-config-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-config-controller.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-configurationexception.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-configurationexception.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-deactivator.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-deactivator.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-noreleasesexception.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-noreleasesexception.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-resource.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-resource.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-v3deprecation-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-v3deprecation-controller.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome-v3mapper.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-v3mapper.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/includes/class-fontawesome.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/index.php",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/LICENSE",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/readme.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/readme.txt",
+		"oF": 0
+		},
+	"/wp-content/plugins/font-awesome/v3shims.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/plugins/font-awesome/v3shims.php",
+		"oF": 0
+		},
 	"/wp-content/plugins/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -7588,14 +7893,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-content/themes/portfolio-live/comments.php",
-		"oF": 0
-		},
-	"/wp-content/themes/portfolio-live/contact.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/contact.php",
 		"oF": 0
 		},
 	"/wp-content/themes/portfolio-live/custom/script/script2-min.js": {
@@ -7953,14 +8250,6 @@
 		"oAP": "/wp-content/themes/portfolio-live/post-live/Untitled-2.html",
 		"oF": 0
 		},
-	"/wp-content/themes/portfolio-live/process.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/themes/portfolio-live/process.php",
-		"oF": 0
-		},
 	"/wp-content/themes/portfolio-live/README.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -8090,6 +8379,977 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-content/themes/portfolio-live/template-parts/content.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/404.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/archive.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/archive.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/comments.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/comments.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/footer.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/functions.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/header.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/image.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/back-compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/back-compat.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/color-patterns.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/color-patterns.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/customizer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/customizer.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/icon-functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/icon-functions.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/template-functions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/template-functions.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/inc/template-tags.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/inc/template-tags.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/index.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/js/customize-controls.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/js/customize-controls-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/js/customize-preview.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/js/customize-preview-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/js/priority-menu.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/js/priority-menu-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/js/skip-link-focus-fix.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/js/skip-link-focus-fix-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/js/touch-keyboard-navigation-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/wp-content/themes/twentynineteen/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/wp-content/themes/twentynineteen/page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/page.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/postcss.config.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/postcss.config-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-content/themes/twentynineteen/print.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/print-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/themes/twentynineteen/print.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/print.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/readme.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/readme.txt",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/sass/_normalize.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/_normalize.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/blocks/_blocks.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/blocks/_blocks.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/elements/_elements.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/elements/_elements.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/elements/_lists.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/elements/_lists.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/elements/_tables.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/elements/_tables.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/forms/_buttons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/forms/_buttons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/forms/_fields.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/forms/_fields.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/forms/_forms.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/forms/_forms.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/layout/_layout.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/layout/_layout.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/media/_captions.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/media/_captions.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/media/_galleries.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/media/_galleries.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/media/_media.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/media/_media.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/mixins/_mixins-master.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/mixins/_mixins-master.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/mixins/_utilities.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/mixins/_utilities.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/modules/_accessibility.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/modules/_accessibility.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/modules/_alignments.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/modules/_alignments.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/modules/_clearings.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/modules/_clearings.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_links.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_links.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_menu-main-navigation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_menu-main-navigation.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_menu-social-navigation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_menu-social-navigation.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_navigation.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_navigation.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/navigation/_next-previous.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/navigation/_next-previous.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/_site.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/_site.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/footer/_site-footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/footer/_site-footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/header/_site-featured-image.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/header/_site-featured-image.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/header/_site-header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/header/_site-header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/primary/_archives.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/primary/_archives.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/primary/_comments.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/primary/_comments.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/primary/_posts-and-pages.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/primary/_posts-and-pages.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/site/secondary/_widgets.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/site/secondary/_widgets.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/typography/_copy.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/typography/_copy.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/typography/_headings.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/typography/_headings.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/typography/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/typography/_typography.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_colors.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_colors.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_columns.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_columns.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_fonts.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_structure.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_structure.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_transitions.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_transitions.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/screenshot.png": {
+		"ft": 32768,
+		"iS": 175535,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/screenshot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/wp-content/themes/twentynineteen/search.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/search.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/single.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/single.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/style-editor-customizer.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-editor-customizer-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/themes/twentynineteen/style-editor-customizer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-editor-customizer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/style-editor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-editor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/themes/twentynineteen/style-editor.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-editor.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/themes/twentynineteen/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-content/themes/twentynineteen/style.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/style.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/content/content-none.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/content/content-none.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/content/content-page.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/content/content-page.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/content/content-single.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/content/content-single.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/content/content.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/content/content.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/header/entry-header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/header/entry-header.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/header/site-branding.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/header/site-branding.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/post/author-bio.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/post/author-bio.php",
+		"oF": 0
+		},
+	"/wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php",
 		"oF": 0
 		},
 	"/wp-content/uploads/2017/12/Bestsetter-portfolio-1024x602.png": {
@@ -9367,6 +10627,94 @@
 		"oAP": "/wp-includes/author-template.php",
 		"oF": 0
 		},
+	"/wp-includes/blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/archives.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/archives.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/block.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/block.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/calendar.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/calendar.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/categories.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/categories.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/latest-comments.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/latest-comments.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/latest-posts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/latest-posts.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/rss.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/rss.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/search.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/search.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/shortcode.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/shortcode.php",
+		"oF": 0
+		},
+	"/wp-includes/blocks/tag-cloud.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/blocks/tag-cloud.php",
+		"oF": 0
+		},
 	"/wp-includes/bookmark-template.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -9591,6 +10939,30 @@
 		"oAP": "/wp-includes/class-wp-ajax-response.php",
 		"oF": 0
 		},
+	"/wp-includes/class-wp-block-parser.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-block-parser.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-block-type-registry.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-block-type-registry.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-block-type.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-block-type.php",
+		"oF": 0
+		},
 	"/wp-includes/class-wp-comment-query.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -9693,6 +11065,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/class-wp-error.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-fatal-error-handler.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-fatal-error-handler.php",
 		"oF": 0
 		},
 	"/wp-includes/class-wp-feed-cache-transient.php": {
@@ -9887,6 +11267,14 @@
 		"oAP": "/wp-includes/class-wp-oembed-controller.php",
 		"oF": 0
 		},
+	"/wp-includes/class-wp-paused-extensions-storage.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-paused-extensions-storage.php",
+		"oF": 0
+		},
 	"/wp-includes/class-wp-post-type.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -9909,6 +11297,46 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/class-wp-query.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-recovery-mode-cookie-service.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-recovery-mode-cookie-service.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-recovery-mode-email-service.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-recovery-mode-email-service.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-recovery-mode-key-service.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-recovery-mode-key-service.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-recovery-mode-link-service.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-recovery-mode-link-service.php",
+		"oF": 0
+		},
+	"/wp-includes/class-wp-recovery-mode.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/class-wp-recovery-mode.php",
 		"oF": 0
 		},
 	"/wp-includes/class-wp-rewrite.php": {
@@ -10428,6 +11856,446 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/css/dashicons.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-editor/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-editor/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-editor/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-editor/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-editor/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-editor/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-editor/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-editor/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/editor-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/editor-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/editor-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/editor-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/editor.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/editor-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/editor.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/editor.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/theme-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/theme-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/theme-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/theme-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/theme.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/theme-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/block-library/theme.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/block-library/theme.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/components/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/components/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/components/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/components/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/components/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/components/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/components/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/components/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/edit-post/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/edit-post/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/edit-post/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/edit-post/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/edit-post/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/edit-post/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/edit-post/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/edit-post/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/editor-styles-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/editor-styles-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/editor-styles-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/editor-styles-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/editor-styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/editor-styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/editor-styles.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/editor-styles.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/editor/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/editor/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/format-library/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/format-library/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/format-library/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/format-library/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/format-library/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/format-library/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/format-library/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/format-library/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/list-reusable-blocks/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/list-reusable-blocks/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/list-reusable-blocks/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/list-reusable-blocks/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/list-reusable-blocks/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/list-reusable-blocks/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/list-reusable-blocks/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/list-reusable-blocks/style.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/nux/style-rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/nux/style-rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/nux/style-rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/nux/style-rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/nux/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/nux/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/wp-includes/css/dist/nux/style.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/css/dist/nux/style.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -11247,6 +13115,14 @@
 		"oAP": "/wp-includes/embed.php",
 		"oF": 0
 		},
+	"/wp-includes/error-protection.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/error-protection.php",
+		"oF": 0
+		},
 	"/wp-includes/feed-atom-comments.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -11335,6 +13211,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/fonts/dashicons.woff",
+		"oF": 0
+		},
+	"/wp-includes/fonts/dashicons.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/fonts/dashicons.woff2",
 		"oF": 0
 		},
 	"/wp-includes/formatting.php": {
@@ -12445,6 +14329,17 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/wp-includes/js/backbone.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/backbone-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/wp-includes/js/backbone.min-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12463,6 +14358,28 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-includes/js/backbone.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/clipboard.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/clipboard-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/clipboard.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/clipboard.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -12531,6 +14448,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/wp-includes/js/codemirror/esprima.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/codemirror/esprima-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/codemirror/fakejshint.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/codemirror/fakejshint-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/wp-includes/js/codemirror/htmlhint-kses-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -12582,17 +14521,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-includes/js/codemirror/jshint-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-includes/js/codemirror/jshint.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-includes/js/codemirror/jshint-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -13113,6 +15041,1062 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-includes/js/customize-views.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/a11y.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/a11y-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/a11y.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/a11y.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/annotations.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/annotations-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/annotations.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/annotations.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/api-fetch.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/api-fetch-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/api-fetch.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/api-fetch.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/autop.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/autop-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/autop.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/autop.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/blob.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/blob-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/blob.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/blob.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-editor.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-editor-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-editor.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-editor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-library.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-library-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-library.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-library.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-serialization-default-parser.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-serialization-default-parser-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/block-serialization-default-parser.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/block-serialization-default-parser.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/blocks.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/blocks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/blocks.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/blocks.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/components.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/components-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/components.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/components.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/compose.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/compose-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/compose.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/compose.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/core-data.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/core-data-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/core-data.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/core-data.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/data.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/data-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/data.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/data.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/date.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/date-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/date.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/date.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/deprecated.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/deprecated-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/deprecated.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/deprecated.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/dom-ready.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/dom-ready-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/dom-ready.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/dom-ready.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/dom.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/dom-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/dom.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/dom.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/edit-post.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/edit-post-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/edit-post.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/edit-post.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/editor.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/editor-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/editor.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/editor.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/element.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/element-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/element.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/element.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/escape-html.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/escape-html-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/escape-html.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/escape-html.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/format-library.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/format-library-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/format-library.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/format-library.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/hooks.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/hooks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/hooks.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/hooks.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/html-entities.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/html-entities-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/html-entities.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/html-entities.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/i18n.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/i18n-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/i18n.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/i18n.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/is-shallow-equal.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/is-shallow-equal-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/is-shallow-equal.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/is-shallow-equal.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/keycodes.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/keycodes-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/keycodes.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/keycodes.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/list-reusable-blocks.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/list-reusable-blocks-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/list-reusable-blocks.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/list-reusable-blocks.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/notices.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/notices-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/notices.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/notices.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/nux.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/nux-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/nux.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/nux.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/plugins.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/plugins-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/plugins.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/plugins.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/priority-queue.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/priority-queue-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/priority-queue.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/priority-queue.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/redux-routine.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/redux-routine-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/redux-routine.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/redux-routine.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/rich-text.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/rich-text-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/rich-text.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/rich-text.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/shortcode.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/shortcode-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/shortcode.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/shortcode.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/token-list.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/token-list-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/token-list.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/token-list.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/url.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/url-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/url.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/url.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/lodash.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/lodash-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/lodash.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/lodash.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/moment.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/moment-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/moment.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/moment.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/react-dom.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/react-dom-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/react-dom.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/react-dom.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/react.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/react-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/react.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/react.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-element-closest.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-element-closest-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-fetch.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-fetch-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-fetch.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-formdata.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-formdata-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-formdata.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-node-contains.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-node-contains-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/vendor/wp-polyfill.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/vendor/wp-polyfill.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/viewport.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/viewport-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/viewport.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/viewport.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/wordcount.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/wordcount-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/dist/wordcount.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/dist/wordcount.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -17446,13 +20430,16 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/wp-includes/js/tinymce/wp-tinymce.js.gz": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/wp-includes/js/tinymce/wp-tinymce.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "/wp-includes/js/tinymce/wp-tinymce.js.gz",
-		"oF": 0
+		"oAP": "/wp-includes/js/tinymce/wp-tinymce-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/wp-includes/js/tinymce/wp-tinymce.php": {
 		"cB": 0,
@@ -17546,6 +20533,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/wp-includes/js/twemoji.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/wp-includes/js/underscore.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/wp-includes/js/underscore-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -18572,12 +21570,28 @@
 		"oAP": "/wp-includes/ms-load.php",
 		"oF": 0
 		},
+	"/wp-includes/ms-network.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/ms-network.php",
+		"oF": 0
+		},
 	"/wp-includes/ms-settings.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/ms-settings.php",
+		"oF": 0
+		},
+	"/wp-includes/ms-site.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/ms-site.php",
 		"oF": 0
 		},
 	"/wp-includes/nav-menu-template.php": {
@@ -18786,14 +21800,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/random_compat/random_bytes_mcrypt.php",
-		"oF": 0
-		},
-	"/wp-includes/random_compat/random_bytes_openssl.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-includes/random_compat/random_bytes_openssl.php",
 		"oF": 0
 		},
 	"/wp-includes/random_compat/random_int.php": {
@@ -19316,6 +22322,30 @@
 		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php",
 		"oF": 0
 		},
+	"/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php",
+		"oF": 0
+		},
+	"/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php",
+		"oF": 0
+		},
+	"/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php",
+		"oF": 0
+		},
 	"/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -19364,6 +22394,14 @@
 		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php",
 		"oF": 0
 		},
+	"/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php",
+		"oF": 0
+		},
 	"/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -19386,6 +22424,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php",
+		"oF": 0
+		},
+	"/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php",
 		"oF": 0
 		},
 	"/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php": {
@@ -19434,6 +22480,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php",
+		"oF": 0
+		},
+	"/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php",
+		"oF": 0
+		},
+	"/wp-includes/rest-api/search/class-wp-rest-search-handler.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/rest-api/search/class-wp-rest-search-handler.php",
 		"oF": 0
 		},
 	"/wp-includes/revision.php": {
@@ -19712,6 +22774,732 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/wp-includes/SimplePie/XML/Declaration/Parser.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/autoload.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/autoload.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/wp-includes/sodium_compat/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/wp-includes/sodium_compat/lib/constants.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/lib/constants.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/lib/namespaced.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/lib/namespaced.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/lib/php72compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/lib/php72compat.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/lib/sodium_compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/lib/sodium_compat.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/LICENSE",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Compat.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Ed25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Ed25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Poly1305.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Poly1305.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Salsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Salsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/SipHash.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/SipHash.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Util.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Util.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/X25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/X25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/Crypto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/Crypto.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/namespaced/File.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/namespaced/File.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Compat.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Compat.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/BLAKE2b.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/BLAKE2b.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/ChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/ChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Fe.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Fe.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Cached.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Cached.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P1p1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P1p1.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P2.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P3.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Precomp.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Precomp.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/H.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/H.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Curve25519/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Curve25519/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Ed25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Ed25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/HChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/HChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/HSalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/HSalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Poly1305.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Poly1305.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Poly1305/State.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Poly1305/State.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Salsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Salsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/SipHash.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/SipHash.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/Util.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/Util.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/X25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/X25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/XChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/XChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core/XSalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core/XSalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/BLAKE2b.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/BLAKE2b.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/ChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/ChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Fe.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Fe.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Cached.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Cached.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P1p1.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P1p1.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P2.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P3.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P3.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Precomp.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Precomp.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/H.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/H.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Curve25519/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Curve25519/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Ed25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Ed25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/HChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/HChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/HSalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/HSalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Int32.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Int32.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Int64.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Int64.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Poly1305.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Poly1305.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Poly1305/State.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Poly1305/State.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Salsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Salsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/SipHash.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/SipHash.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/Util.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/Util.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/X25519.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/X25519.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/XChaCha20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/XChaCha20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Core32/XSalsa20.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Core32/XSalsa20.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Crypto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Crypto.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/Crypto32.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/Crypto32.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/File.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/File.php",
+		"oF": 0
+		},
+	"/wp-includes/sodium_compat/src/SodiumException.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/wp-includes/sodium_compat/src/SodiumException.php",
 		"oF": 0
 		},
 	"/wp-includes/spl-autoload-compat.php": {
@@ -20178,7 +23966,7 @@
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 1,
-	"animateCSSInjections": 1,
+	"animateCSSInjections": 0,
 	"autoBuildNewItems": 1,
 	"autoprefixerEnableIEGrid": 0,
 	"babel7PresetType": 1,

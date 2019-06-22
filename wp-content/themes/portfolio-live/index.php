@@ -12,21 +12,16 @@
  * @package portfolio
  */
 
-get_header(); ?>
-	<?php include 'menu.php';?>
-	<?php include 'frontpage.php';?>
+include 'menu.php';
+get_header();
+	include 'frontpage.php';?>
 				<div class="container">
 				<div class="row">
 					<div id="primary" class="content-area">
 						<main id="main" class="site-main">
 							<?php include 'portfolio.php';?>
-							<?php include 'process.php';?>
-							<?php include 'about.php';?>
-							<?php include 'contact.php';?>	
 						</main>
-						<!-- #main -->
 					</div>
-					<!-- #primary -->
 				</div>
 			</div>
 	<?php
