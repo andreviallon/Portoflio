@@ -12,24 +12,24 @@
 
 		<div class="menu-container">
 			<li class="menu-desktop">
-				<a href="/" class="menu-hover">Case Studies</a>
+				<a href="index.php" class="menu-hover active">Case Studies</a>
 			</li>
 			<li class="menu-desktop">
-				<a href="/about" class="menu-hover">About</a>
+				<a href="about.php" class="menu-hover">About</a>
 			</li>
 			<li class="menu-desktop">
-				<a href="/resume" class="menu-hover">Resume</a>
+				<a href="/resume" class="menu-hover" target="_blank">Resume</a>
 			</li>
 		</div>
 
 		<div class="social-container">
 			<li class="social-item">
-				<a href="mailto:viallon.andre@gmail.com" rel="noopener noreferrer" target="_blank">
-					<i class="fa fa-envelope"></i>
+				<a href="mailto:viallon.andre@gmail.com" rel="noopener noreferrer">
+					<i class="fa fa-envelope-o"></i>
 				</a>
 			</li>
 			<li class="social-item">
-				<a href="https://www.linkedin.com/in/andre-viallon/" rel="noopener noreferrer">
+				<a href="https://www.linkedin.com/in/andre-viallon/" rel="noopener noreferrer" target="_blank">
 					<i class="fa fa-linkedin"></i>
 				</a>
 			</li>
@@ -44,8 +44,6 @@
 				</a>
 			</li>
 		</div>
-
-		<!-- </div> -->
 
 			<!-- <li class="menu-mobile">
 				<div class="burger-menu">

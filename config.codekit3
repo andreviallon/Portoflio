@@ -7620,233 +7620,6 @@
 		"oAP": "/wp-content/plugins/akismet/wrapper.php",
 		"oF": 0
 		},
-	"/wp-content/plugins/font-awesome/admin/build/asset-manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/asset-manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/css/main.31bcd836.chunk.css.map",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/1.3f651b37.chunk.js.map",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/main.9e9dd0f6.chunk.js.map",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/build/static/js/runtime-main.49c79181.js.map",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/index.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/admin/views/main.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/admin/views/main.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/defines.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/defines.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/font-awesome.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/font-awesome.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-activator.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-activator.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-config-controller.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-config-controller.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-configurationexception.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-configurationexception.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-deactivator.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-deactivator.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-noreleasesexception.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-noreleasesexception.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-release-provider.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-resource.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-resource.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-v3deprecation-controller.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-v3deprecation-controller.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome-v3mapper.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome-v3mapper.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/includes/class-fontawesome.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/includes/class-fontawesome.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/index.php",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/LICENSE",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/readme.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/readme.txt",
-		"oF": 0
-		},
-	"/wp-content/plugins/font-awesome/v3shims.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/wp-content/plugins/font-awesome/v3shims.php",
-		"oF": 0
-		},
 	"/wp-content/plugins/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -10592,6 +10365,39 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/wp-content/uploads/2019/06/Bestseller-150x150.png": {
+		"ft": 32768,
+		"iS": 17542,
+		"oA": 0,
+		"oAP": "/wp-content/uploads/2019/06/Bestseller-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/wp-content/uploads/2019/06/Bestseller-300x300.png": {
+		"ft": 32768,
+		"iS": 58782,
+		"oA": 0,
+		"oAP": "/wp-content/uploads/2019/06/Bestseller-300x300.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/wp-content/uploads/2019/06/Bestseller.png": {
+		"ft": 32768,
+		"iS": 79973,
+		"oA": 0,
+		"oAP": "/wp-content/uploads/2019/06/Bestseller.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

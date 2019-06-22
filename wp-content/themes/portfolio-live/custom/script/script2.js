@@ -16,20 +16,4 @@ $(document).ready(() => {
         $(".menu-mobile").css({ display: "block" });
         $(".menu-mobile-content-container").css({ display: "none" });
     });
-
-    $("a.menu-hover").on("click", event => {
-        const hash = this.hash;
-
-        if (this.hash !== "") {
-            event.preventDefault();
-
-            $("html, body").animate(
-                {
-                    scrollTop: $(hash).offset().top
-                },
-                800,
-                () => (window.location.hash = hash)
-            );
-        }
-    });
 });

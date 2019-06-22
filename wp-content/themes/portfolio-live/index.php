@@ -14,16 +14,6 @@
 
 include 'menu.php';
 get_header();
-	include 'frontpage.php';?>
-				<div class="container">
-				<div class="row">
-					<div id="primary" class="content-area">
-						<main id="main" class="site-main">
-							<?php include 'portfolio.php';?>
-						</main>
-					</div>
-				</div>
-			</div>
-	<?php
+include 'frontpage.php';
 get_sidebar();
 get_footer();
