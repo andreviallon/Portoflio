@@ -12,7 +12,7 @@
 
 		<div class="menu-container">
 			<li class="menu-desktop">
-				<a href="http://localhost:8888/portoflio-2018" class="menu-hover active">Case Studies</a>
+				<a href="http://localhost:8888/portoflio-2018" class="menu-hover">Case Studies</a>
 			</li>
 			<li class="menu-desktop">
 				<a href="about" class="menu-hover">About</a>

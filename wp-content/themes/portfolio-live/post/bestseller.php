@@ -33,6 +33,7 @@
     <div class="post-title title-container col-xs-10 col-xs-offset-1">
         <h1>Bestseller Portal</h1>
     </div>
+
     <div class="section-container col-xs-10 col-xs-offset-1">
         <h2 class="post-section-title">Role</h2>
         <p class="section-content job">UI / UX Design</p>
@@ -40,9 +41,9 @@
     </div>
     <div class="section-container col-xs-10 col-xs-offset-1">
         <h2 class="post-section-title">Overview</h2>
-        <p class="section-content"> The aim of this project was to create a portal for Bestseller's employees, for them to have a better way of handling internal services such as orderings, bookings, requests, reporting incidents, and finding specific documents. To help the users fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.
+        <p class="section-content"> The aim of this project was to create a portal for Bestseller's employees, for them to have a better way of handling internal services such as orderings, bookings, requests, reporting incidents, and finding specific documents. To help the users fulfilling these goals, along with two other teammates, I created a prototype for a mobile application.</p>
 
-            <a href="https://xd.adobe.com/view/56fa443c-71c8-4bc4-5fa5-a9b857bc7400-20cb/" target="_blank" class="menu-hover">Click here to see the prototype.</a>
+        <a href="https://xd.adobe.com/view/56fa443c-71c8-4bc4-5fa5-a9b857bc7400-20cb/" target="_blank" class="menu-hover">Click here to see the prototype.</a>
 
     </div>
     <div class="section-container col-xs-12">
@@ -85,5 +86,11 @@
         <p class="section-content">After creating the essential screens and flow of the app based on the knowledge acquired form our research, we created an interactive prototype to perform user tests and gather feedback to then reiterate on our design.</p>
         <a href="https://xd.adobe.com/view/56fa443c-71c8-4bc4-5fa5-a9b857bc7400-20cb/" target="_blank" class="menu-hover">Click here to see the prototype.</a>
 
+    </div>
+</div>
+
+<div class="post-footer section-container title-container col-xs-12">
+    <div class="footer">
+        &copy; 2019 Andre Viallon. All rights reserved.
     </div>
 </div>
