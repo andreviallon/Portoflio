@@ -1,6 +1,6 @@
 <div class="hide-if-open">
 <a href="https://www.andreviallon.com/findo-coffee/">
-<img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/09/Portfolio-Show-Case@3x.png" alt="epico showcase" />
+<img class="case-studies-img" src="http://localhost:8888/portoflio-2018/wp-content/uploads/2019/06/Bestseller.png" alt="epico showcase" />
 </a>
 <h3 class="case-studies-title">Findo Coffee</h3>
 <div class="case-studies-pink-bar"></div>

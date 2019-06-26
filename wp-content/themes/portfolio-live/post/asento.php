@@ -1,6 +1,6 @@
 <div class="hide-if-open">
     <a href="https://www.andreviallon.com/asento/">
-        <img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/08/Thumbnail.png" alt="Asento showcase">
+        <img class="case-studies-img" src="http://localhost:8888/portoflio-2018/wp-content/uploads/2019/06/Bestseller.png" alt="Asento showcase">
     </a>
     <h3 class="case-studies-title">Asento Learn</h3>
     <p class="case-studies-description">Web App</p>
@@ -11,7 +11,7 @@
     <ul class="main-nav col-xs-12">
         <div class="logo-container">
             <li>
-                <a href="index.php" class="logo li-first">
+                <a href="http://localhost:8888/portoflio-2018" class="logo li-first">
                     <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
                 </a>
             </li>

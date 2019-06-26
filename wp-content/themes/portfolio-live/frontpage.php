@@ -13,7 +13,7 @@
     <div class="discover-bar"></div>
 </div>
 
-<div class="col-lg-4 col-md-6 col-sm-12">
+<div class="post-container col-xs-12">
     <?php
         if ( have_posts() ) :
             if ( is_home() && ! is_front_page() ) : ?>

@@ -53,6 +53,19 @@ p {
 	height: 100vh;
 }
 
+.post-container {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.main-page article {
+	padding: 20px 20px 0 20px;
+	width: 33%;
+}
+
 // Menu
 .nav-container {
 	position: fixed;
