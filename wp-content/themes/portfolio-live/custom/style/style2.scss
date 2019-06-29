@@ -61,9 +61,14 @@ p {
 	justify-content: space-between;
 }
 
-.main-page article {
+article {
 	padding: 20px 20px 0 20px;
 	width: 33%;
+}
+
+#main article {
+	width: 100%;
+	padding: 0;
 }
 
 // Menu
@@ -407,6 +412,10 @@ p {
 	margin: 0;
 }
 
+.job {
+	margin: 0;
+}
+
 // About
 .about {
 	margin-top: 21vh;
@@ -585,6 +594,10 @@ li {
 .section-container img {
 	padding: 0;
 	margin: 70px 0;
+}
+
+.section-container .mockup-img {
+	margin: 40px 0;
 }
 
 .section-container a:visited {

@@ -1,13 +1,12 @@
 <div class="hide-if-open">
     <a href="https://www.andreviallon.com/epico/">
-        <img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/07/Epico-portfolio.png" alt="epico showcase"
-        />
+        <img class="case-studies-img" src="https://www.andreviallon.com/wp-content/uploads/2018/07/Epico-portfolio.png" alt="epico showcase"/>
     </a>
     <h3 class="case-studies-title">Epico Job Portal</h3>
-    <div class="case-studies-pink-bar"></div>
-    <p class="case-studies-description">WEP APP</p>
+    <p class="case-studies-description">Web App</p>
 </div>
 <!--more-->
+
 <nav class="nav-container">
     <div class="container">
         <div class="row">
@@ -31,24 +30,24 @@
 </nav>
 
 <div class="post-main-container col-xs-12">
-    <div class="post-title title-container col-md-8 col-md-offset-2">
+    <div class="post-title title-container col-xs-10 col-xs-offset-1">
         <div class="post-black-bar"></div>
         <h1>Epico Job Portal</h1>
     </div>
 
-    <div class="section-container title-container col-md-8 col-md-offset-2">
-        <h2 class="post-section-title">role</h2>
-        <p class="section-content job">UX / UI Design
-            <br>Frontend Development</p>
+    <div class="post-title title-container col-xs-10 col-xs-offset-1">
+        <h2 class="post-section-title">Role</h2>
+        <p class="section-content job">UI / UX Design</p>
+        <p class="section-content job">Frontend Development</p>
     </div>
 
-    <div class="section-container title-container col-md-8 col-md-offset-2">
-        <h2 class="post-section-title">overview</h2>
+    <div class="section-container title-container col-xs-10 col-xs-offset-1">
+        <h2 class="post-section-title">Overview</h2>
         <p class="section-content">Epico is a Danish IT consultancy company helping freelancers finding jobs and meeting recruiters. Epico wanted to
             create a web-app allowing freelancers to see available jobs as well as blog post that Epico are posting. The
             web-app should be responsive, user-friendly and facilitate the process of finding a job for freelancers.
             <br>
-            <br>See all mockups on InVision at
+            <br>Click here to see the prototype
             <a href="https://invis.io/WCETXJA6Z" target="_blank" class="menu-hover">https://invis.io/WCETXJA6Z</a>.</p>
     </div>
 
