@@ -580,10 +580,18 @@ article {
 	color: $textgrey;
 	line-height: 1.8;
 	margin: 0 0 30px 0;
+
+	@media (max-width: 768px) {
+		padding-left: 0;
+	}
 }
 
 .section-container ol {
 	margin: 0;
+
+	@media (max-width: 768px) {
+		padding: 0;
+	}
 }
 
 li {
@@ -592,8 +600,9 @@ li {
 }
 
 .section-container img {
+	width: 100%;
 	padding: 0;
-	margin: 70px 0;
+	margin: 50px 0;
 }
 
 .section-container .mockup-img {
@@ -634,7 +643,7 @@ li {
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 70px 0;
+	margin: 50px 0;
 
 	img {
 		width: 28%;
@@ -714,7 +723,6 @@ li {
 	}
 
 	.title-container h1 {
-		left: -28px;
 		font-size: 46px;
 	}
 
