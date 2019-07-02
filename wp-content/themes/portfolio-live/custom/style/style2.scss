@@ -64,6 +64,17 @@ p {
 article {
 	padding: 20px 20px 0 20px;
 	width: 33%;
+
+	@media (max-width: 992px) {
+		width: 50%;
+	}
+
+	@media (max-width: 576px) {
+		width: 100%;
+		.hide-if-open img {
+			width: 100%;
+		}
+	}
 }
 
 #main article {
@@ -208,7 +219,6 @@ article {
 // Mobile menu
 .menu-mobile {
 	display: none;
-	margin-top: 5px;
 }
 
 .menu-desktop a {
@@ -227,6 +237,7 @@ article {
 	padding: 0 20px;
 	width: 100vw;
 	justify-content: space-between;
+	align-items: center;
 }
 
 .is-open {
@@ -515,7 +526,7 @@ article {
 	transform: rotate(45deg);
 	transform-origin: 20% 40%;
 	border-radius: 200px;
-	top: -2px;
+	top: -4px;
 	position: relative;
 }
 
@@ -526,7 +537,7 @@ article {
 	transform: rotate(-45deg);
 	transform-origin: 20% 40%;
 	border-radius: 200px;
-	top: 7px;
+	top: 5px;
 	position: relative;
 }
 
@@ -609,8 +620,16 @@ li {
 	margin: 40px 0;
 }
 
-.section-container a:visited {
+.section-container a {
 	color: $textgrey;
+
+	&:visited {
+		color: $textgrey;
+	}
+
+	&:hover {
+		color: $textgrey;
+	}
 }
 
 .mockup-grid-wrapper img {
@@ -652,31 +671,52 @@ li {
 }
 
 //Large tablets
-@media (max-width: 992px) {
-	.headline-title-before {
-		top: -18px;
-	}
-
-	.headline-title,
-	.header-fix {
-		font-size: 58px;
-	}
-
+@media (max-width: 1100px) {
+	.social-container,
+	.menu-container,
 	.menu-desktop {
-		display: block;
+		display: none;
+	}
+
+	.menu-mobile {
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		flex: 1;
+		display: -webkit-flex;
+		display: -webkit-box;
+		display: flex;
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		justify-content: flex-end;
+	}
+
+	.mobile-menu-nav {
+		width: 100vw;
+		padding: 19px 20px 0;
 	}
 
 	.burger-menu {
-		display: none;
+		display: block;
+	}
+
+	.main-nav {
+		width: 100vw;
+		padding: 0 20px;
+	}
+
+	.mobile-social-container {
+		position: absolute;
+		display: flex;
+		bottom: 100px;
+
+		li.social-item a i {
+			padding: 16px;
+			font-size: 3rem !important;
+		}
 	}
 
 	.headline-p {
 		width: 80%;
-	}
-
-	//Process
-	.process-description {
-		width: 75%;
 	}
 
 	.profile-picture {
@@ -696,18 +736,6 @@ li {
 	}
 }
 
-//Tablets
-@media (min-width: 768px) {
-	.burger-menu {
-		display: none;
-	}
-
-	.about,
-	.contact {
-		padding-left: 60px;
-	}
-}
-
 @media (max-width: 768px) {
 	.container {
 		overflow-x: hidden;
@@ -717,68 +745,13 @@ li {
 		margin-top: 8vh;
 	}
 
-	.headline-title,
-	.header-fix {
-		font-size: 50px;
-	}
-
-	.title-container h1 {
-		font-size: 46px;
-	}
-
 	.post-nav {
 		padding: 0 20px;
-	}
-
-	.post-black-bar {
-		height: 3px;
-		width: 18px;
-		left: -26px;
-	}
-
-	.menu-desktop {
-		display: none;
-	}
-
-	.menu-mobile,
-	.burger-menu {
-		display: block;
-	}
-
-	.main-nav {
-		width: 100vw;
-		padding: 0 20px;
-	}
-
-	.headline-title-before {
-		top: -20px;
-		height: 3px;
-		left: -38px;
-		width: 24px;
-	}
-
-	.headline-title {
-		left: -34px;
-	}
-
-	.pink-bar-offset {
-		top: -14px;
-		left: -20px;
-		border-bottom: 22px solid $lightpink;
-	}
-
-	.header-fix {
-		top: 14px;
-		left: -9px;
 	}
 
 	.headline-p {
 		width: 75%;
 		padding-top: 2%;
-	}
-
-	#primary {
-		padding: 5%;
 	}
 
 	.section-title-before {
@@ -831,22 +804,8 @@ li {
 
 // Large phone
 @media (max-width: 576px) {
-	.headline-title,
-	.header-fix {
-		font-size: 36px;
-	}
-
 	.title-container h1 {
 		font-size: 30px;
-	}
-
-	.headline-title-before {
-		top: -12px;
-	}
-
-	//Process
-	.process-description {
-		width: 90%;
 	}
 
 	//About

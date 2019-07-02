@@ -3,7 +3,7 @@
         <img class="case-studies-img" src="http://localhost:8888/portoflio-2018/wp-content/uploads/2019/06/Bestseller.png" alt="bestseller showcase">
     </a>
     <h3 class="case-studies-title">Bestseller Portal</h3>
-    <p class="case-studies-description">App</p>
+    <p class="case-studies-description">Design</p>
 </div>
 <!--more-->
 

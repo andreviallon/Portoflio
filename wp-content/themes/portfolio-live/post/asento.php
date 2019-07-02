@@ -3,7 +3,7 @@
         <img class="case-studies-img" src="http://localhost:8888/portoflio-2018/wp-content/uploads/2019/06/Bestseller.png" alt="Asento showcase">
     </a>
     <h3 class="case-studies-title">Asento Learn</h3>
-    <p class="case-studies-description">Web App</p>
+    <p class="case-studies-description">Design</p>
 </div>
 <!--more-->
 
@@ -42,6 +42,7 @@
     <div class="section-container col-sm-12 col-md-10 col-md-offset-1">
         <h2 class="post-section-title">Objective</h2>
         <p class="section-content">Design a product to help Marketing Coordinators learn and acquire new skills.</p>
+
         <a href="https://xd.adobe.com/view/56fa443c-71c8-4bc4-5fa5-a9b857bc7400-20cb/" target="_blank" class="menu-hover">Click here to see the prototype.</a>
 
     </div>
@@ -57,8 +58,7 @@
 
     <div class="section-container col-sm-12 col-md-10 col-md-offset-1">
         <h2 class="post-section-title">The Solution</h2>
-        <p class="section-content">Create easy to use and intuitive an e-learning platform to educate marketing coordinators, focusing on a desktop web-app. Because Marketing Coordinators already have busy schedule, the solution should have small videos grouped in courses so that the can easily find the information they need without having to what the entire course.</p>
-        <p class="section-content">Moreover, the solution should include certificates that the users can add to their linkedin account to showcase their skills.</p>
+        <p class="section-content">Create easy to use and intuitive an e-learning platform to educate marketing coordinators, focusing on a desktop web-app. Because Marketing Coordinators already have busy schedule, the solution should have small videos grouped in courses so that the can easily find the information they need without having to what the entire course.Moreover, the solution should include certificates that the users can add to their linkedin account to showcase their skills.</p>
     </div>
 
     <div class="section-container col-sm-12 col-md-10 col-md-offset-1">
