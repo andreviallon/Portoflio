@@ -727,6 +727,10 @@ li {
 }
 
 @media (max-width: 991px) {
+	.flex-container img {
+		width: 44%;
+	}
+
 	.profile-picture {
 		width: 40%;
 		margin-left: 30%;
@@ -751,6 +755,10 @@ li {
 @media (max-width: 768px) {
 	.container {
 		overflow-x: hidden;
+	}
+
+	.flex-container img {
+		width: 100%;
 	}
 
 	.post-main-container {
@@ -792,10 +800,29 @@ li {
 	}
 }
 
-// Large phone
+// Phones
 @media (max-width: 576px) {
 	.title-container h1 {
 		font-size: 30px;
+	}
+
+	.headline-title,
+	.header-fix {
+		font-size: 25px;
+	}
+
+	.header-fix {
+		left: -12px;
+	}
+
+	.pink-bar-offset {
+		top: -35px;
+		left: 76px;
+	}
+
+	.headline-p {
+		font-size: 14px;
+		line-height: 1.5;
 	}
 
 	//About
@@ -810,27 +837,24 @@ li {
 	}
 }
 
-// Phone
-@media (max-width: 420px) {
-	// Headline
+@media (max-width: 400px) {
 	.headline-title,
 	.header-fix {
-		font-size: 34px;
+		font-size: 20px;
 	}
-	// Process
-	.process-description {
-		width: 100%;
+
+	.header-fix {
+		left: -11px;
+	}
+
+	.pink-bar-offset {
+		top: -32px;
+		left: 63px;
 	}
 }
 
 //Fix breaking containers
 @media (max-width: 366px) {
-	// Contact
-	.contact-p,
-	.contact-black a {
-		font-size: 16px;
-	}
-
 	.profile-picture {
 		width: 60%;
 		margin-left: 19%;
