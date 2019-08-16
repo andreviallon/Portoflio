@@ -145,10 +145,6 @@ article {
 	justify-content: flex-end;
 }
 
-.closing-cross-container {
-	padding: 16px 0 16px 16px;
-}
-
 .main-nav .logo img {
 	width: 50px;
 }
@@ -433,8 +429,7 @@ article {
 
 // About
 .about {
-	padding-top: 21vh;
-	height: 100vh;
+	margin-top: 21vh;
 }
 
 .about-text {
@@ -480,16 +475,7 @@ article {
 	margin: 70px 0 100px 0;
 }
 
-.about-footer {
-	margin: auto;
-	position: absolute;
-	left: 0;
-	bottom: 60px;
-	right: 0;
-	text-align: center;
-}
-
-.footer {
+.about-footer .footer {
 	margin: 150px 0 0 0;
 }
 
@@ -747,11 +733,6 @@ li {
 }
 
 @media (max-width: 991px) {
-	.about-footer {
-		position: relative;
-		bottom: 0;
-	}
-
 	.flex-container img {
 		width: 44%;
 	}

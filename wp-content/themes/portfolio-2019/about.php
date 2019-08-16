@@ -4,7 +4,7 @@
             <div class="about-text col-md-6">
                 <div class="about-title">Hi there!</div>
                 <div class="about-p">
-                    So, this is where I get to talk a bit about myself. My name is André. I am Software Engineer specialized in Frontend Development and UI / UX Design  with a thrilling passion for creating modern and beautiful solutions to make my user’s life easier.
+                    So, this is where I get to talk a bit about myself. My name is Andre. I am hybrid UI / UX Designer and Frontend Developer with a thrilling passion for creating modern and beautiful solutions to make my user’s life easier.
                     <div class="about-p">
                     </div>
                     I’ve always been interested in challenging myself. That’s why I left France, my home country, when I was 17 for new adventures and moved to Denmark where I joined the International Baccalaureate. This is where I started to develop a strong interest in storytelling as well as human behavior by studying English Literature as well as Anthropology. 
@@ -19,7 +19,7 @@
              </div>
         </div>
 
-        <div class="about-footer section-container title-container">
+        <div class="about-footer section-container title-container col-xs-12">
             <div class="footer">
                 &copy; 2019 Andre Viallon. All rights reserved.
             </div>

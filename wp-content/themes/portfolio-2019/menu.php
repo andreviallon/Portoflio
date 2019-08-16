@@ -1,10 +1,10 @@
 <div class="headline">
 	<nav class="nav-container">
-		<ul class="main-nav">
+		<ul class="main-nav col-xs-12">
 
 		<div class="logo-container">
-			<li>
-				<a href="http://localhost:8888/portoflio-2018" class="logo li-first">
+			<li class="menu-desktop">
+				<a href="https://www.andreviallon.com/" class="logo li-first">
 					<img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
 				</a>
 			</li>
@@ -12,7 +12,7 @@
 
 		<div class="menu-container">
 			<li class="menu-desktop">
-				<a href="http://localhost:8888/portoflio-2018" class="menu-hover">Case Studies</a>
+				<a href="https://www.andreviallon.com/" class="menu-hover">Case Studies</a>
 			</li>
 			<li class="menu-desktop">
 				<a href="about" class="menu-hover">About</a>
