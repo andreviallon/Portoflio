@@ -11,7 +11,7 @@
     <ul class="main-nav col-sm-12">
         <div class="logo-container">
             <li>
-                <a href="http://localhost:8888/portoflio-2018" class="logo li-first">
+                <a href="https://www.andreviallon.com/" class="logo li-first">
                     <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
                 </a>
             </li>
@@ -36,7 +36,7 @@
 
     <div class="section-container col-sm-12 col-md-10 col-md-offset-1">
         <h2 class="post-section-title">Role</h2>
-        <p class="section-content job">UI / UX Design
+        <p class="section-content job">UX Design
     </div>
 
     <div class="section-container col-sm-12 col-md-10 col-md-offset-1">
@@ -121,7 +121,7 @@
         <img class="mockup-img" src="https://www.andreviallon.com/wp-content/uploads/2018/08/Landing-Page.png" alt="Asento Landing page">
         <img class="mockup-img" src="https://www.andreviallon.com/wp-content/uploads/2018/08/Home.png" alt="Asento Home">
         <img class="mockup-img" src="https://www.andreviallon.com/wp-content/uploads/2018/08/Library.png" alt="Asento Library">
-        <img class="mockup-img" src="https://www.andreviallon.com/wp-content/uploads/2018/08/Course-Video.png" alt="Asento Course-video">
+        <img class="mockup-img" src="https://www.andreviallon.com/wp-content/uploads/2019/09/Course-Video.png" alt="Asento Course-video">
         <img src="https://www.andreviallon.com/wp-content/uploads/2018/08/Certificates.png" alt="Asento Certificates">
     </div>
 

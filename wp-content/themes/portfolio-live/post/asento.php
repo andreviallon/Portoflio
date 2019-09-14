@@ -11,7 +11,7 @@
     <ul class="main-nav col-sm-12">
         <div class="logo-container">
             <li>
-                <a href="http://localhost:8888/portoflio-2018" class="logo li-first">
+                <a href="https://www.andreviallon.com/" class="logo li-first">
                     <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
                 </a>
             </li>

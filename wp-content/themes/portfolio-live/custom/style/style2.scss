@@ -102,6 +102,7 @@ article {
 
 	li {
 		margin: 2rem;
+		display: inline-block;
 
 		a {
 			font-size: 18px;
@@ -225,7 +226,8 @@ article {
 	display: none;
 }
 
-.menu-desktop a {
+.menu-desktop a,
+.menu-desktop-logo a {
 	display: inline-block;
 }
 
@@ -265,6 +267,8 @@ article {
 }
 
 .mobile-menu-ul {
+	display: flex;
+	flex-direction: column;
 	margin: 0;
 	padding: 0;
 }
@@ -280,7 +284,6 @@ article {
 
 .mobile-nav-li {
 	height: 10vh;
-	padding: 5vh 0 10vh 0;
 }
 
 .mobile-nav-li a {

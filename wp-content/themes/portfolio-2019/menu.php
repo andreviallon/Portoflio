@@ -3,7 +3,7 @@
 		<ul class="main-nav col-xs-12">
 
 		<div class="logo-container">
-			<li class="menu-desktop">
+			<li class="menu-desktop-logo">
 				<a href="https://www.andreviallon.com/" class="logo li-first">
 					<img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
 				</a>
@@ -11,15 +11,15 @@
 		</div>
 
 		<div class="menu-container">
-			<li class="menu-desktop">
+			<li>
 				<a href="https://www.andreviallon.com/" class="menu-hover">Case Studies</a>
 			</li>
 			<li class="menu-desktop">
 				<a href="about" class="menu-hover">About</a>
 			</li>
-			<!-- <li class="menu-desktop">
-				<a href="/resume" class="menu-hover" target="_blank">Resume</a>
-			</li> -->
+			<li class="menu-desktop">
+				<a href="https://www.andreviallon.com/wp-content/uploads/2019/09/Resume.pdf" class="menu-hover" target="_blank">Resume</a>
+			</li>
 		</div>
 
 		<div class="social-container">
@@ -55,7 +55,7 @@
 			<div class="menu-mobile-content-container">
 				<ul class="mobile-menu-nav">
 					<li class="logo-container">
-						<a href="http://localhost:8888/portoflio-2018" class="logo li-first">
+						<a href="https://www.andreviallon.com/" class="logo li-first">
 							<img src="https://www.andreviallon.com/wp-content/uploads/2018/07/logo.png" alt="AV logo">
 						</a>
 					</li>
@@ -70,14 +70,14 @@
 					<nav class="mobile-nav">
 						<ul class="mobile-menu-ul">
 							<li class="mobile-nav-li">
-								<a href="http://localhost:8888/portoflio-2018" class="menu-hover">Case Studies</a>
+								<a href="https://www.andreviallon.com/" class="menu-hover">Case Studies</a>
 							</li>
 							<li class="mobile-nav-li">
 								<a href="about" class="menu-hover">About</a>
 							</li>
-							<!-- <li class="mobile-nav-li">
-								<a href="/resume" class="menu-hover" target="_blank">Resume</a>
-							</li> -->
+							<li class="mobile-nav-li">
+								<a href="https://www.andreviallon.com/wp-content/uploads/2019/09/Resume.pdf" class="menu-hover" target="_blank">Resume</a>
+							</li>
 						</ul>
 					</nav>
 				</div>
