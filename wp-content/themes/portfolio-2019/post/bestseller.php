@@ -67,22 +67,22 @@
 
     </div>
     <div class="section-container reset-bottom-margin section-mobile col-sm-12">
-        <div class="col-sm-12 col-sm-offset-0 col-sm-10 col-sm-offset-2 col-md-6 col-md-offset-0">
+        <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/ideation1.jpg" alt="Bestseller User Journey"></div>
-        <div class="col-sm-12 col-sm-offset-0 col-sm-10 col-sm-offset-2 col-md-6 col-md-offset-0">
+        <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
             <img src="https://www.andreviallon.com/wp-content/uploads/2018/07/ideation2.jpg" alt="Bestseller User Journey"></div>
     </div>
     <div class="section-container col-sm-10 col-sm-offset-1">
         <h2 class="post-section-title">Mockups</h2>
         <p class="section-content">Next, we created wireframes based on the user journey we made and then mockups based on these wireframes. Once this was done, we created an interactive prototype for the bestseller representative to try our concept for the app.
     </div>
-    <div class="section-container col-sm-12 col-sm-offset-0 col-sm-10 col-sm-offset-2 col-md-6 col-md-offset-02">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Home-Portfolio.png" alt="Bestseller Home">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Menu-Portfolio.png" alt="Bestseller Service">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Facility-Details-Portfolio.png" alt="Bestseller Facilities Details">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Filter-Portfolio.png" alt="Bestseller Filter">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Filter-Dates-Portfolio.png" alt="Bestseller Filter Date Picker">
-        <img src="https://www.andreviallon.com/wp-content/uploads/2019/08/Your-Order-Portfolio.png" alt="Bestseller Your Order">
+    <div class="section-mobile flex-container col-sm-12">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Home-Portfolio.png" alt="Bestseller Home">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Menu-Portfolio.png" alt="Bestseller Service">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Facility-Details-Portfolio.png" alt="Bestseller Facilities Details">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Filter-Portfolio.png" alt="Bestseller Filter">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Services-Filter-Dates-Portfolio.png" alt="Bestseller Filter Date Picker">
+        <img class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-03" src="https://www.andreviallon.com/wp-content/uploads/2019/08/Your-Order-Portfolio.png" alt="Bestseller Your Order">
     </div>
     <div class="section-container col-sm-10 col-sm-offset-1">
         <h2 class="post-section-title">Interactive Prototype</h2>

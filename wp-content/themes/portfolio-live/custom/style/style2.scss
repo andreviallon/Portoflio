@@ -150,6 +150,10 @@ article {
 	padding: 16px 0 16px 16px;
 }
 
+.logo {
+	display: inline-block;
+}
+
 .main-nav .logo img {
 	width: 50px;
 }
@@ -679,11 +683,13 @@ li {
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 	margin: 50px 0;
 
 	img {
-		width: 28%;
+		width: 29%;
 		margin: 20px;
+		padding: 0;
 	}
 }
 
