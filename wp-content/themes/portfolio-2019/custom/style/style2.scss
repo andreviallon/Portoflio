@@ -90,7 +90,6 @@ article {
 	right: 0;
 	z-index: 3;
 	background-color: $white;
-	padding-top: 10px;
 }
 
 .menu-container {
@@ -662,11 +661,13 @@ li {
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 	margin: 50px 0;
 
 	img {
 		width: 28%;
 		margin: 20px;
+		padding: 0;
 	}
 }
 
