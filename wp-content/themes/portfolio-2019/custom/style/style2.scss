@@ -475,7 +475,11 @@ article {
 }
 
 .about-footer .footer {
+	position: fixed;
 	margin: 150px 0 0 0;
+	bottom: 100px;
+	right: 0;
+	left: 0;
 }
 
 .post-footer .footer {
@@ -666,6 +670,7 @@ li {
 
 	img {
 		width: 28%;
+		height: 100%;
 		margin: 20px;
 		padding: 0;
 	}
@@ -699,7 +704,6 @@ li {
 
 	.mobile-menu-nav {
 		width: 100vw;
-		padding: 19px 20px 0;
 	}
 
 	.burger-menu {
@@ -756,6 +760,10 @@ li {
 		margin-left: 5%;
 		position: relative;
 		margin-left: 24%;
+	}
+
+	.about-footer .footer {
+		position: relative;
 	}
 }
 

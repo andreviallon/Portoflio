@@ -18,12 +18,10 @@
                  <div class="avatar-pink-box"></div>
              </div>
         </div>
-
-        <div class="about-footer section-container title-container">
-            <div class="footer">
-                &copy; 2019 Andre Viallon. All rights reserved.
-            </div>
-        </div>
-
+    </div>
+</div>
+ <div class="about-footer section-container title-container">
+    <div class="footer">
+        &copy; 2019 Andre Viallon. All rights reserved.
     </div>
 </div>
